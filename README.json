@@ -1,0 +1,645 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProxmoxMCP-Plus",
+          "description": "MCP and OpenAPI integration to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T13:40:28Z",
+            "owner": "RekklesNA",
+            "repo": "ProxmoxMCP-Plus",
+            "stars": 398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxmoxMCP",
+          "description": "Python-based MCP server for interacting with Proxmox hypervisors, providing a clean interface for managing nodes, VMs, and containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-19T20:16:13Z",
+            "owner": "canvrno",
+            "repo": "ProxmoxMCP",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proximo",
+          "description": "MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:20:08Z",
+            "owner": "john-broadway",
+            "repo": "proximo",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proxmox API Go",
+              "description": "Proxmox API in golang. For /api2/json.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-11T17:00:36Z",
+                "owner": "Telmate",
+                "repo": "proxmox-api-go",
+                "stars": 490
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proxmox VE Client API Java",
+              "description": "Java API client Libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-07-26T14:39:29Z",
+                "owner": "Corsinvest",
+                "repo": "cv4pve-api-java",
+                "stars": 78
+              }
+            }
+          ]
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proxmox VM Autoscale",
+          "description": "Service that dynamically adjusts your Proxmox virtual machine (VM) resources (CPU cores, RAM) based on real-time metrics and user-defined thresholds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T12:46:41Z",
+            "owner": "fabriziosalmi",
+            "repo": "proxmox-vm-autoscale",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LXC AutoScale",
+          "description": "Resource management daemon specifically designed for Proxmox environments. It automatically adjusts CPU and memory allocations with no downtime and can clone LXC containers based on real-time usage metrics and predefined thresholds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:11:01Z",
+            "owner": "fabriziosalmi",
+            "repo": "proxmox-lxc-autoscale",
+            "stars": 254
+          }
+        }
+      ],
+      "title": "Autoscaling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "proxmox-backup",
+          "description": "Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T03:11:17Z",
+            "owner": "tis24dev",
+            "repo": "proxsave",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxSnap",
+          "description": "Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-22T15:49:09Z",
+            "owner": "gyptazy",
+            "repo": "ProxSnap",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pve-bindsnap",
+          "description": "Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-08-02T23:27:43Z",
+            "owner": "bitranox",
+            "repo": "pve-bindsnap",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Backup Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proxmox VE Helper-Scripts",
+          "description": "Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T02:51:50Z",
+            "owner": "community-scripts",
+            "repo": "ProxmoxVE",
+            "stars": 29240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxMenux",
+          "description": "Management tool for Proxmox VE that simplifies system administration through an interactive menu.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:28:15Z",
+            "owner": "MacRimi",
+            "repo": "ProxMenux",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PVE-mods",
+          "description": "Small collection of scripts and mods for Proxmox Virtual Environment (PVE).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T16:47:26Z",
+            "owner": "Meliox",
+            "repo": "PVE-mods",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox-Enhanced-Configuration-Utility (PECU)",
+          "description": "Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-17T22:56:40Z",
+            "owner": "Danilop95",
+            "repo": "Proxmox-Enhanced-Configuration-Utility",
+            "stars": 961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pvetui",
+          "description": "Terminal User Interface for Proxmox Virtual Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T09:07:28Z",
+            "owner": "devnullvoid",
+            "repo": "pvetui",
+            "stars": 708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox Manager",
+          "description": "Single-file Bash tool for managing Proxmox VMs and containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-22T11:45:48Z",
+            "owner": "TimInTech",
+            "repo": "proxmox-manager",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxtagger",
+          "description": "Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T21:23:13Z",
+            "owner": "Reginleif88",
+            "repo": "proxtagger",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "CLI & Community Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProxLB",
+          "description": "Application to optimize the distribution of virtual machines across Proxmox cluster nodes for enhanced efficiency and performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T12:14:42Z",
+            "owner": "gyptazy",
+            "repo": "ProxLB",
+            "stars": 895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProxCLMC",
+          "description": "Lightweight tool to determine the maximum CPU compatibility level supported across all nodes in a Proxmox VE cluster for live migration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-15T12:18:44Z",
+            "owner": "gyptazy",
+            "repo": "ProxCLMC",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Cluster Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pve-microvm",
+          "description": "Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-18T11:02:24Z",
+            "owner": "rcarmo",
+            "repo": "pve-microvm",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osx-proxmox",
+          "description": "One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T15:41:34Z",
+            "owner": "lucid-fabrics",
+            "repo": "osx-proxmox-next",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "valheim-proxmox",
+          "description": "One-command Valheim dedicated server LXC with a web panel for players, bans, worlds, backups and mods",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T06:35:57Z",
+            "owner": "PawelSzymanski89",
+            "repo": "valheim-proxmox",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxmox-guestos-customization",
+          "description": "Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:34:43Z",
+            "owner": "RobertLukan",
+            "repo": "proxmox-guestos-customization",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Guest Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terraform Provider for Proxmox",
+          "description": "Terraform / OpenTofu provider which adds support for Proxmox solutions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:59:59Z",
+            "owner": "bpg",
+            "repo": "terraform-provider-proxmox",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox-GitOps",
+          "description": "Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-18T10:41:41Z",
+            "owner": "stevius10",
+            "repo": "Proxmox-GitOps",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cluster API Provider for Proxmox VE (CAPMOX)",
+          "description": "Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:33:13Z",
+            "owner": "ionos-cloud",
+            "repo": "cluster-api-provider-proxmox",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "packer-plugin-proxmox",
+          "description": "Packer plugin for Proxmox Builder.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-22T09:17:40Z",
+            "owner": "natrontech",
+            "repo": "packer-plugin-proxmox",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Infrastructure as Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pulse",
+          "description": "Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:40:11Z",
+            "owner": "rcourtman",
+            "repo": "Pulse",
+            "stars": 6542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus Proxmox VE Exporter",
+          "description": "Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:14:31Z",
+            "owner": "prometheus-pve",
+            "repo": "prometheus-pve-exporter",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PVE-UPS",
+          "description": "GUI-based UPS shutdown appliance for Proxmox VE - a NUT alternative with a web wizard and no config files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T18:58:05Z",
+            "owner": "ffind-dev",
+            "repo": "pve-ups",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "check_pve",
+          "description": "Icinga check command for Proxmox VE via API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T12:05:44Z",
+            "owner": "nbuchwitz",
+            "repo": "check_pve",
+            "stars": 134
+          }
+        }
+      ],
+      "title": "Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cv4pve-report",
+          "description": "Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report - like RVTools for Proxmox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-01T07:22:08Z",
+            "owner": "Corsinvest",
+            "repo": "cv4pve-report",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox Report Generator",
+          "description": "Report PDF Generator For Your Proxmox Virtual Environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T11:16:46Z",
+            "owner": "AungThuMyint",
+            "repo": "ProxmoxReportGenerator",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Reporting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proxmox Hardening Guide",
+          "description": "Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-09T16:04:52Z",
+            "owner": "HomeSecExplorer",
+            "repo": "Proxmox-Hardening-Guide",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxmox-ftagent",
+          "description": "One-command LXC deployment of the Flowtriq DDoS detection agent on Proxmox VE, with automatic dependency and systemd service setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-29T23:50:26Z",
+            "owner": "Flowtriq",
+            "repo": "proxmox-ftagent",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TrueNAS Proxmox VE Storage Plugin",
+          "description": "High-performance storage plugin for Proxmox VE that integrates TrueNAS SCALE via iSCSI, featuring live snapshots, ZFS integration, and cluster compatibility.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2026-04-02T00:23:48Z",
+            "owner": "WarlockSyno",
+            "repo": "TrueNAS-Proxmox-VE-Storage-Plugin",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox VE Plugin for Pure Storage as Multipath iSCSI Source",
+          "description": "Integration of Pure Storage arrays with Proxmox Virtual Environment (VE) using multipath iSCSI or Fibre Channel (FC).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-05-03T21:18:16Z",
+            "owner": "kolesa-team",
+            "repo": "pve-purestorage-plugin",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox VE Plugin for HPE Nimble Storage (iSCSI)",
+          "description": "Integration of HPE Nimble Storage arrays with Proxmox Virtual Environment (VE) over iSCSI. It uses the Nimble REST API to create and manage volumes and presents them as VM disks with optional multipath.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-20T23:13:50Z",
+            "owner": "brngates98",
+            "repo": "pve-nimble-plugin",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Storage"
+    },
+    {
+      "description": "Contributing guidelines can be found here.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:47.344Z",
+    "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
+    "original_repository_sha": "46f7ec16febe3bee6c3dfaf399e7526384792fa4",
+    "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
+    "enhanced_repository_description": null,
+    "title": "Awesome Proxmox VE Virtualization with stars"
+  }
+}
