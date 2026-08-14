@@ -42,7 +42,7 @@
             "last_commit": "2026-08-13T04:56:58Z",
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 31
+            "stars": 32
           }
         }
       ],
@@ -121,7 +121,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:22:26Z",
+            "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
             "stars": 254
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T08:00:43Z",
+            "last_commit": "2026-08-14T09:37:41Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29244
+            "stars": 29261
           }
         },
         {
@@ -203,10 +203,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T07:14:54Z",
+            "last_commit": "2026-08-14T05:48:05Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2852
+            "stars": 2857
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-10T16:47:26Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1858
+            "stars": 1861
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-05-17T22:56:40Z",
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 961
+            "stars": 960
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-08-10T09:07:28Z",
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 708
+            "stars": 710
           }
         },
         {
@@ -346,10 +346,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-09T15:41:34Z",
+            "last_commit": "2026-08-13T18:21:31Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -422,7 +422,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T11:46:12Z",
+            "last_commit": "2026-08-13T12:18:09Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 469
@@ -461,10 +461,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T11:48:03Z",
+            "last_commit": "2026-08-14T11:53:33Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6545
+            "stars": 6551
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1431
+            "stars": 1432
           }
         },
         {
@@ -560,7 +560,7 @@
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 535
+            "stars": 536
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-04-02T00:23:48Z",
             "owner": "WarlockSyno",
             "repo": "TrueNAS-Proxmox-VE-Storage-Plugin",
-            "stars": 145
+            "stars": 144
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:56:00.829Z",
+    "last_updated": "2026-08-14T11:53:53.179Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
     "original_repository_sha": "46f7ec16febe3bee6c3dfaf399e7526384792fa4",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
