@@ -14,7 +14,7 @@
             "last_commit": "2026-08-11T13:40:28Z",
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 403
+            "stars": 453
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T03:00:21Z",
+            "last_commit": "2026-08-17T01:41:00Z",
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 34
@@ -64,7 +64,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-11T17:00:36Z",
+                "last_commit": "2026-08-16T19:33:59Z",
                 "owner": "Telmate",
                 "repo": "proxmox-api-go",
                 "stars": 490
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T23:44:54Z",
+            "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 507
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T10:48:44Z",
+            "last_commit": "2026-08-17T09:27:52Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29283
+            "stars": 29292
           }
         },
         {
@@ -203,10 +203,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T09:12:03Z",
+            "last_commit": "2026-08-17T10:19:40Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2859
+            "stars": 2862
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2026-08-14T18:32:19Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1867
+            "stars": 1871
           }
         },
         {
@@ -245,7 +245,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-10T09:07:28Z",
+            "last_commit": "2026-08-17T09:06:18Z",
             "owner": "devnullvoid",
             "repo": "pvetui",
             "stars": 709
@@ -262,7 +262,7 @@
             "last_commit": "2026-07-22T11:45:48Z",
             "owner": "TimInTech",
             "repo": "proxmox-manager",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-07-18T11:02:24Z",
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 350
+            "stars": 352
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-08-15T21:15:35Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 246
+            "stars": 248
           }
         },
         {
@@ -374,7 +374,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:07:41Z",
+            "last_commit": "2026-08-16T20:44:30Z",
             "owner": "RobertLukan",
             "repo": "proxmox-guestos-customization",
             "stars": 2
@@ -394,10 +394,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T05:13:01Z",
+            "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2182
+            "stars": 2185
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 569
+            "stars": 571
           }
         },
         {
@@ -422,7 +422,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:18:09Z",
+            "last_commit": "2026-08-17T09:22:33Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 471
@@ -461,10 +461,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T09:37:01Z",
+            "last_commit": "2026-08-17T05:38:20Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6564
+            "stars": 6571
           }
         },
         {
@@ -478,7 +478,7 @@
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-08-06T18:58:05Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 148
+            "stars": 151
           }
         },
         {
@@ -594,7 +594,7 @@
             "last_commit": "2026-04-02T00:23:48Z",
             "owner": "WarlockSyno",
             "repo": "TrueNAS-Proxmox-VE-Storage-Plugin",
-            "stars": 144
+            "stars": 143
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:31:26.815Z",
+    "last_updated": "2026-08-17T11:36:04.310Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
     "original_repository_sha": "46f7ec16febe3bee6c3dfaf399e7526384792fa4",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
