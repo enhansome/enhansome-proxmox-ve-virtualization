@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 988856738,
             "language": "Python",
             "last_commit": "2026-08-11T13:40:28Z",
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 477
+            "stars": 488
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935187419,
             "language": "Python",
             "last_commit": "2025-02-19T20:16:13Z",
             "owner": "canvrno",
             "repo": "ProxmoxMCP",
-            "stars": 286
+            "stars": 287
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1265706142,
             "language": "Python",
             "last_commit": "2026-08-17T01:41:00Z",
             "owner": "john-broadway",
@@ -49,7 +52,7 @@
       "title": "AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -63,6 +66,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 81260810,
                 "language": "Go",
                 "last_commit": "2026-08-16T19:33:59Z",
                 "owner": "Telmate",
@@ -84,6 +88,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 103278308,
                 "language": "Java",
                 "last_commit": "2026-07-26T14:39:29Z",
                 "owner": "Corsinvest",
@@ -97,7 +102,7 @@
       "title": "API"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +111,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 864497613,
             "language": "Python",
             "last_commit": "2026-07-20T12:46:41Z",
             "owner": "fabriziosalmi",
@@ -120,6 +126,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 842197070,
             "language": "Python",
             "last_commit": "2026-08-14T08:35:13Z",
             "owner": "fabriziosalmi",
@@ -131,7 +138,7 @@
       "title": "Autoscaling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -140,6 +147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1015894877,
             "language": "Go",
             "last_commit": "2026-08-17T03:11:47Z",
             "owner": "tis24dev",
@@ -154,6 +162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135929359,
             "language": "Rust",
             "last_commit": "2026-01-22T15:49:09Z",
             "owner": "gyptazy",
@@ -168,6 +177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1261962451,
             "language": "Perl",
             "last_commit": "2026-08-02T23:27:43Z",
             "owner": "bitranox",
@@ -179,7 +189,7 @@
       "title": "Backup Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -188,11 +198,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-18T10:45:10Z",
+            "last_commit": "2026-08-19T02:49:30Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29300
+            "stars": 29317
           }
         },
         {
@@ -202,11 +213,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:54:32Z",
+            "last_commit": "2026-08-19T09:46:23Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2863
+            "stars": 2865
           }
         },
         {
@@ -216,11 +228,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 632102111,
             "language": "Shell",
-            "last_commit": "2026-08-17T18:51:54Z",
+            "last_commit": "2026-08-18T18:40:21Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1873
+            "stars": 1875
           }
         },
         {
@@ -230,6 +243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 664006718,
             "language": "Shell",
             "last_commit": "2026-05-17T22:56:40Z",
             "owner": "Danilop95",
@@ -244,6 +258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 977212376,
             "language": "Go",
             "last_commit": "2026-08-17T09:06:18Z",
             "owner": "devnullvoid",
@@ -258,6 +273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047673244,
             "language": "Shell",
             "last_commit": "2026-07-22T11:45:48Z",
             "owner": "TimInTech",
@@ -272,6 +288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956858863,
             "language": "Python",
             "last_commit": "2026-05-12T21:23:13Z",
             "owner": "Reginleif88",
@@ -283,7 +300,7 @@
       "title": "CLI & Community Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -292,6 +309,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 825268913,
             "language": "Python",
             "last_commit": "2026-01-15T12:14:42Z",
             "owner": "gyptazy",
@@ -306,6 +324,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1120230131,
             "language": "Rust",
             "last_commit": "2026-01-15T12:18:44Z",
             "owner": "gyptazy",
@@ -317,12 +336,7 @@
       "title": "Cluster Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Desktop Apps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -331,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1214386818,
             "language": "Shell",
             "last_commit": "2026-07-18T11:02:24Z",
             "owner": "rcarmo",
@@ -345,8 +360,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1153257898,
             "language": "Python",
-            "last_commit": "2026-08-15T21:15:35Z",
+            "last_commit": "2026-08-19T03:04:10Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
             "stars": 250
@@ -359,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1318468020,
             "language": "Python",
             "last_commit": "2026-08-04T06:35:57Z",
             "owner": "PawelSzymanski89",
@@ -373,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083421655,
             "language": "Python",
             "last_commit": "2026-08-17T20:29:09Z",
             "owner": "RobertLukan",
@@ -384,7 +402,7 @@
       "title": "Guest Automation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -393,11 +411,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404135384,
             "language": "Go",
             "last_commit": "2026-08-16T21:34:10Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2188
+            "stars": 2189
           }
         },
         {
@@ -407,6 +426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1013641879,
             "language": "Ruby",
             "last_commit": "2026-07-18T10:41:41Z",
             "owner": "stevius10",
@@ -421,11 +441,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725111108,
             "language": "Go",
-            "last_commit": "2026-08-18T09:01:36Z",
+            "last_commit": "2026-08-19T00:33:02Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 472
+            "stars": 473
           }
         },
         {
@@ -435,6 +456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1274360797,
             "language": "Go",
             "last_commit": "2026-06-22T09:17:40Z",
             "owner": "natrontech",
@@ -446,12 +468,7 @@
       "title": "Infrastructure as Code"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Mobile Apps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -460,11 +477,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-18T10:53:56Z",
+            "last_commit": "2026-08-19T08:48:15Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6577
+            "stars": 6579
           }
         },
         {
@@ -474,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101076642,
             "language": "Python",
             "last_commit": "2026-08-12T14:14:31Z",
             "owner": "prometheus-pve",
@@ -488,11 +507,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1301376039,
             "language": "Python",
             "last_commit": "2026-08-06T18:58:05Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 153
+            "stars": 159
           }
         },
         {
@@ -502,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116843155,
             "language": "Python",
             "last_commit": "2026-02-05T12:05:44Z",
             "owner": "nbuchwitz",
@@ -513,7 +534,7 @@
       "title": "Monitoring"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -522,11 +543,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1193664022,
             "language": "C#",
             "last_commit": "2026-06-01T07:22:08Z",
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -536,6 +558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1060849762,
             "language": "Python",
             "last_commit": "2026-06-11T11:16:46Z",
             "owner": "AungThuMyint",
@@ -547,7 +570,7 @@
       "title": "Reporting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -556,11 +579,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1047884111,
             "language": null,
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 540
+            "stars": 541
           }
         },
         {
@@ -570,6 +594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1275633315,
             "language": "Shell",
             "last_commit": "2026-06-29T23:50:26Z",
             "owner": "Flowtriq",
@@ -581,7 +606,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -590,6 +615,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1065013209,
             "language": "Shell",
             "last_commit": "2026-04-02T00:23:48Z",
             "owner": "WarlockSyno",
@@ -604,6 +630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 891429989,
             "language": "Perl",
             "last_commit": "2026-05-03T21:18:16Z",
             "owner": "kolesa-team",
@@ -618,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182029117,
             "language": "Perl",
             "last_commit": "2026-07-20T23:13:50Z",
             "owner": "brngates98",
@@ -627,15 +655,10 @@
         }
       ],
       "title": "Storage"
-    },
-    {
-      "description": "Contributing guidelines can be found here.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:36:06.812Z",
+    "last_updated": "2026-08-19T11:36:03.724Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
     "original_repository_sha": "46f7ec16febe3bee6c3dfaf399e7526384792fa4",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
