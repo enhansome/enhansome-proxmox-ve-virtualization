@@ -72,7 +72,7 @@
 
 ## CLI & Community Tools
 
-* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,317 | 🐛 21 | 🌐 Shell | 📅 2026-08-19 - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
+* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,318 | 🐛 22 | 🌐 Shell | 📅 2026-08-19 - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
 * [ProxMenux](https://github.com/MacRimi/ProxMenux) ⭐ 2,865 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-19 - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
 * [PVE-mods](https://github.com/Meliox/PVE-mods) ⭐ 1,875 | 🐛 18 | 🌐 Shell | 📅 2026-08-18 - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
 * [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) ⭐ 961 | 🐛 10 | 🌐 Shell | 📅 2026-05-17 - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.

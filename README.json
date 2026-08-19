@@ -203,7 +203,7 @@
             "last_commit": "2026-08-19T02:49:30Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29317
+            "stars": 29318
           }
         },
         {
@@ -658,8 +658,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:36:03.724Z",
+    "last_updated": "2026-08-19T12:49:29.370Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
+    "original_repository_id": 811014471,
     "original_repository_sha": "46f7ec16febe3bee6c3dfaf399e7526384792fa4",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
