@@ -164,7 +164,7 @@
             "archived": false,
             "id": 1287505057,
             "language": "Python",
-            "last_commit": "2026-08-23T12:05:01Z",
+            "last_commit": "2026-08-24T13:05:15Z",
             "owner": "Joulenap",
             "repo": "joulenap",
             "stars": 122
@@ -215,7 +215,7 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-24T11:14:31Z",
+            "last_commit": "2026-08-24T12:06:51Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
             "stars": 29380
@@ -230,10 +230,10 @@
             "archived": false,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:04:19Z",
+            "last_commit": "2026-08-24T12:31:43Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2903
+            "stars": 2905
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-08-23T14:15:07Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1883
+            "stars": 1884
           }
         },
         {
@@ -349,6 +349,55 @@
         }
       ],
       "title": "Cluster Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ProxmoxBar",
+              "description": "Native macOS menu bar app for monitoring and controlling Proxmox VE resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1131928615,
+                "language": "Swift",
+                "last_commit": "2026-08-14T16:29:27Z",
+                "owner": "ryzenixx",
+                "repo": "proxmoxbar-macos",
+                "stars": 177
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "macOS"
+        }
+      ],
+      "title": "Desktop Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "10 Ways to Ruin Your Proxmox Setup - And How Not To",
+          "description": "Book about 10 common mistakes and how to avoid them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127639606,
+            "language": null,
+            "last_commit": "2026-01-05T10:22:42Z",
+            "owner": "SwamiRama",
+            "repo": "10-ways-to-ruin-proxmox",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "Documentation"
     },
     {
       "description": null,
@@ -487,6 +536,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Netbox-SSOT",
+          "description": "Microservice that syncs objects from multiple sources (including Proxmox) into NetBox as automatic SSOT",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 729261077,
+            "language": "Go",
+            "last_commit": "2026-08-24T07:23:14Z",
+            "owner": "bl4ko",
+            "repo": "netbox-ssot",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Inventory"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ProxMigrate",
+          "description": "Powerful, user-friendly command-line tool for migrating virtual machines between Proxmox VE servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025383607,
+            "language": "Go",
+            "last_commit": "2026-08-16T06:57:41Z",
+            "owner": "AthenaNetworks",
+            "repo": "ProxMigrate",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "Migration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Pulse",
           "description": "Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.",
           "children": [],
@@ -494,7 +585,7 @@
             "archived": false,
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-24T11:38:26Z",
+            "last_commit": "2026-08-24T14:41:23Z",
             "owner": "rcourtman",
             "repo": "Pulse",
             "stars": 6612
@@ -512,7 +603,7 @@
             "last_commit": "2026-08-19T14:13:23Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1438
+            "stars": 1439
           }
         },
         {
@@ -527,7 +618,7 @@
             "last_commit": "2026-08-22T22:47:56Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 178
+            "stars": 180
           }
         },
         {
@@ -673,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:39:32.138Z",
+    "last_updated": "2026-08-24T14:45:10.512Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
     "original_repository_id": 811014471,
     "original_repository_sha": "df45fad133a38481c799b3f5aee45ae436a043e4",
