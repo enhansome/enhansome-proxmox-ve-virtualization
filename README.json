@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T13:40:28Z",
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 501
+            "stars": 502
           }
         },
         {
@@ -128,10 +128,10 @@
             "archived": false,
             "id": 842197070,
             "language": "Python",
-            "last_commit": "2026-08-14T08:35:13Z",
+            "last_commit": "2026-08-25T13:08:49Z",
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 255
+            "stars": 256
           }
         }
       ],
@@ -149,10 +149,10 @@
             "archived": false,
             "id": 1015894877,
             "language": "Go",
-            "last_commit": "2026-08-25T07:22:48Z",
+            "last_commit": "2026-08-25T13:54:52Z",
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 510
+            "stars": 511
           }
         },
         {
@@ -215,10 +215,10 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-25T09:23:57Z",
+            "last_commit": "2026-08-26T11:36:22Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29389
+            "stars": 29396
           }
         },
         {
@@ -230,10 +230,10 @@
             "archived": false,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:56:15Z",
+            "last_commit": "2026-08-26T04:57:56Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2910
+            "stars": 2913
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-24T09:08:09Z",
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -364,7 +364,7 @@
                 "archived": false,
                 "id": 1131928615,
                 "language": "Swift",
-                "last_commit": "2026-08-14T16:29:27Z",
+                "last_commit": "2026-08-26T01:44:13Z",
                 "owner": "ryzenixx",
                 "repo": "proxmoxbar-macos",
                 "stars": 177
@@ -414,7 +414,7 @@
             "last_commit": "2026-08-24T06:54:11Z",
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 360
+            "stars": 362
           }
         },
         {
@@ -426,10 +426,10 @@
             "archived": false,
             "id": 1153257898,
             "language": "Python",
-            "last_commit": "2026-08-21T15:38:40Z",
+            "last_commit": "2026-08-25T22:38:36Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 259
+            "stars": 260
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 404135384,
             "language": "Go",
-            "last_commit": "2026-08-23T15:16:32Z",
+            "last_commit": "2026-08-25T21:58:24Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
             "stars": 2198
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 725111108,
             "language": "Go",
-            "last_commit": "2026-08-19T00:33:02Z",
+            "last_commit": "2026-08-26T00:33:58Z",
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 475
@@ -577,6 +577,34 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reeve",
+              "description": "Native SwiftUI app for iOS and MacOS to monitor, manage, and automate a Proxmox VE homelab.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1255542421,
+                "language": "Swift",
+                "last_commit": "2026-07-13T18:37:33Z",
+                "owner": "JoshuaShunk",
+                "repo": "reeve",
+                "stars": 57
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "iOS"
+        }
+      ],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Pulse",
           "description": "Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.",
@@ -585,10 +613,10 @@
             "archived": false,
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-25T11:24:42Z",
+            "last_commit": "2026-08-26T11:31:01Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6618
+            "stars": 6622
           }
         },
         {
@@ -600,7 +628,7 @@
             "archived": false,
             "id": 101076642,
             "language": "Python",
-            "last_commit": "2026-08-19T14:13:23Z",
+            "last_commit": "2026-08-26T05:39:05Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
             "stars": 1440
@@ -618,7 +646,7 @@
             "last_commit": "2026-08-22T22:47:56Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 183
+            "stars": 186
           }
         },
         {
@@ -680,6 +708,57 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Proxmox VE Custom Integration for Home Assistant",
+          "description": "This integration allows you to poll various data and controls from your Proxmox VE instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514096198,
+            "language": "Python",
+            "last_commit": "2026-08-14T13:50:49Z",
+            "owner": "dougiteixeira",
+            "repo": "proxmoxve",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox Extended Sensors (v4)",
+          "description": "Detailed monitoring & control system for Proxmox VE & PBS in Home Assistant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1133883313,
+            "language": "Python",
+            "last_commit": "2026-08-17T11:02:36Z",
+            "owner": "Javisen",
+            "repo": "proxmox_sensors",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxmox Suits",
+          "description": "Home Assistant integration for monitoring Proxmox VE and Proxmox Backup Server (PBS) with tasks, datastores, and IEC (GiB) sensors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1146846549,
+            "language": "Python",
+            "last_commit": "2026-02-01T08:12:16Z",
+            "owner": "Sundancer78",
+            "repo": "proxmox-suits",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Smarthome"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Proxmox Hardening Guide",
           "description": "Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.",
           "children": [],
@@ -690,7 +769,7 @@
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 543
+            "stars": 544
           }
         },
         {
@@ -758,16 +837,31 @@
             "repo": "pve-nimble-plugin",
             "stars": 8
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Snapbridge",
+          "description": "Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1211395509,
+            "language": "Rust",
+            "last_commit": "2026-04-16T08:06:53Z",
+            "owner": "abdoufermat5",
+            "repo": "snapbridge",
+            "stars": 0
+          }
         }
       ],
       "title": "Storage"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:38:08.956Z",
+    "last_updated": "2026-08-26T11:39:58.820Z",
     "original_repository": "alexgoesgit/awesome-proxmox-ve-virtualization",
     "original_repository_id": 811014471,
-    "original_repository_sha": "df45fad133a38481c799b3f5aee45ae436a043e4",
+    "original_repository_sha": "8269b5139bf0eadd5257a130d9f3542dc803908e",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
