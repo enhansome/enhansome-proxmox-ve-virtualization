@@ -15,7 +15,7 @@
             "last_commit": "2026-08-11T13:40:28Z",
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 503
+            "stars": 504
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T07:45:40Z",
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 40
+            "stars": 41
           }
         }
       ],
@@ -68,10 +68,25 @@
                 "archived": false,
                 "id": 81260810,
                 "language": "Go",
-                "last_commit": "2026-08-16T19:33:59Z",
+                "last_commit": "2026-08-27T20:54:36Z",
                 "owner": "Telmate",
                 "repo": "proxmox-api-go",
                 "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-proxmox",
+              "description": "Typed Go client for the Proxmox VE REST API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 376145235,
+                "language": "Go",
+                "last_commit": "2026-08-09T05:15:12Z",
+                "owner": "luthermonson",
+                "repo": "go-proxmox",
+                "stars": 280
               }
             }
           ]
@@ -142,6 +157,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "cv4pve-autosnap",
+          "description": "Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76440908,
+            "language": "C#",
+            "last_commit": "2026-07-03T14:50:37Z",
+            "owner": "Corsinvest",
+            "repo": "cv4pve-autosnap",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
           "title": "proxmox-backup",
           "description": "Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.",
           "children": [],
@@ -152,7 +182,7 @@
             "last_commit": "2026-08-27T11:59:37Z",
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 511
+            "stars": 512
           }
         },
         {
@@ -215,10 +245,10 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-27T08:33:25Z",
+            "last_commit": "2026-08-27T19:44:28Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29408
+            "stars": 29414
           }
         },
         {
@@ -230,7 +260,7 @@
             "archived": false,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:05:29Z",
+            "last_commit": "2026-08-27T15:48:37Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
             "stars": 2914
@@ -248,7 +278,7 @@
             "last_commit": "2026-08-23T14:15:07Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1889
+            "stars": 1890
           }
         },
         {
@@ -279,6 +309,51 @@
             "owner": "devnullvoid",
             "repo": "pvetui",
             "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PVE Scripts Local",
+          "description": "Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1069104196,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T12:42:34Z",
+            "owner": "community-scripts",
+            "repo": "ProxmoxVE-Local",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dockur/proxmox",
+          "description": "Full Proxmox VE node running inside a Docker container, for labs and CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1249324515,
+            "language": "Shell",
+            "last_commit": "2026-08-25T14:56:17Z",
+            "owner": "dockur",
+            "repo": "proxmox",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv4pve-cli",
+          "description": "kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195868531,
+            "language": "C#",
+            "last_commit": "2026-07-14T05:52:13Z",
+            "owner": "Corsinvest",
+            "repo": "cv4pve-cli",
+            "stars": 85
           }
         },
         {
@@ -324,12 +399,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "id": 825268913,
+            "id": 1134214215,
             "language": "Python",
-            "last_commit": "2026-01-15T12:14:42Z",
-            "owner": "gyptazy",
+            "last_commit": "2026-08-20T12:15:17Z",
+            "owner": "credativ",
             "repo": "ProxLB",
-            "stars": 893
+            "stars": 161
           }
         },
         {
@@ -429,7 +504,7 @@
             "last_commit": "2026-08-27T04:53:12Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 262
+            "stars": 264
           }
         },
         {
@@ -471,7 +546,7 @@
         {
           "node_type": "item",
           "title": "Terraform Provider for Proxmox",
-          "description": "Terraform / OpenTofu provider which adds support for Proxmox solutions.",
+          "description": "Terraform provider which adds support for Proxmox solutions.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,6 +556,21 @@
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
             "stars": 2200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Role - Proxmox",
+          "description": "Ansible role for installing and configuring Proxmox VE clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68048671,
+            "language": "Python",
+            "last_commit": "2026-07-13T06:08:07Z",
+            "owner": "lae",
+            "repo": "ansible-role-proxmox",
+            "stars": 688
           }
         },
         {
@@ -511,6 +601,51 @@
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulumi Proxmox VE",
+          "description": "Pulumi provider for creating and managing Proxmox VE resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 429829622,
+            "language": "Go",
+            "last_commit": "2026-08-27T03:06:44Z",
+            "owner": "muhlba91",
+            "repo": "pulumi-proxmoxve",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hashicorp packer-plugin-proxmox",
+          "description": "Official HashiCorp Packer plugin for building Proxmox VM templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 358037246,
+            "language": "Go",
+            "last_commit": "2026-07-16T11:03:07Z",
+            "owner": "hashicorp",
+            "repo": "packer-plugin-proxmox",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible Collection - community.proxmox",
+          "description": "Canonical Ansible collection for managing Proxmox VE clusters, VMs, and containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 754543571,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:53:41Z",
+            "owner": "ansible-collections",
+            "repo": "community.proxmox",
+            "stars": 143
           }
         },
         {
@@ -613,10 +748,10 @@
             "archived": false,
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-27T11:19:07Z",
+            "last_commit": "2026-08-27T20:43:49Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6626
+            "stars": 6627
           }
         },
         {
@@ -646,7 +781,7 @@
             "last_commit": "2026-08-22T22:47:56Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -662,6 +797,21 @@
             "owner": "nbuchwitz",
             "repo": "check_pve",
             "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pbs-exporter",
+          "description": "Prometheus exporter for Proxmox Backup Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 681229414,
+            "language": "Go",
+            "last_commit": "2026-08-24T08:00:40Z",
+            "owner": "natrontech",
+            "repo": "pbs-exporter",
+            "stars": 58
           }
         }
       ],
@@ -858,17 +1008,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:57.450Z",
+    "last_updated": "2026-08-27T20:59:40.028Z",
     "original_repository_info": {
       "archived": false,
       "id": 811014471,
       "language": null,
-      "last_commit": "2026-08-25T19:42:01Z",
+      "last_commit": "2026-08-27T19:30:31Z",
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
       "stars": 80
     },
-    "original_repository_sha": "8269b5139bf0eadd5257a130d9f3542dc803908e",
+    "original_repository_sha": "755a2b99bcea87338593aabe5e2b643dbc8a9a1b",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
