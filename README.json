@@ -15,8 +15,9 @@
             "last_commit": "2026-08-11T13:40:28Z",
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 504
-          }
+            "stars": 508
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "canvrno",
             "repo": "ProxmoxMCP",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "AI"
@@ -72,7 +75,8 @@
                 "owner": "Telmate",
                 "repo": "proxmox-api-go",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.691Z"
             },
             {
               "node_type": "item",
@@ -86,8 +90,9 @@
                 "last_commit": "2026-08-09T05:15:12Z",
                 "owner": "luthermonson",
                 "repo": "go-proxmox",
-                "stars": 280
-              }
+                "stars": 281
+              },
+              "first_seen": "2026-08-28T21:21:12.691Z"
             }
           ]
         },
@@ -109,7 +114,8 @@
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.691Z"
             }
           ]
         }
@@ -132,7 +138,8 @@
             "owner": "fabriziosalmi",
             "repo": "proxmox-vm-autoscale",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -147,7 +154,8 @@
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Autoscaling"
@@ -168,7 +176,8 @@
             "owner": "Corsinvest",
             "repo": "cv4pve-autosnap",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -179,11 +188,12 @@
             "archived": false,
             "id": 1015894877,
             "language": "Go",
-            "last_commit": "2026-08-27T11:59:37Z",
+            "last_commit": "2026-08-28T10:59:32Z",
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 512
-          }
+            "stars": 514
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -194,11 +204,12 @@
             "archived": false,
             "id": 1287505057,
             "language": "Python",
-            "last_commit": "2026-08-27T08:59:15Z",
+            "last_commit": "2026-08-27T23:44:34Z",
             "owner": "Joulenap",
             "repo": "joulenap",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -213,7 +224,8 @@
             "owner": "gyptazy",
             "repo": "ProxSnap",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -224,11 +236,12 @@
             "archived": false,
             "id": 1261962451,
             "language": "Perl",
-            "last_commit": "2026-08-02T23:27:43Z",
+            "last_commit": "2026-08-27T21:01:02Z",
             "owner": "bitranox",
             "repo": "pve-bindsnap",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Backup Tools"
@@ -245,11 +258,12 @@
             "archived": false,
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-27T19:44:28Z",
+            "last_commit": "2026-08-28T15:09:51Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29414
-          }
+            "stars": 29421
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -260,11 +274,12 @@
             "archived": false,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:48:37Z",
+            "last_commit": "2026-08-28T16:41:40Z",
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2914
-          }
+            "stars": 2916
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -278,8 +293,9 @@
             "last_commit": "2026-08-23T14:15:07Z",
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1890
-          }
+            "stars": 1891
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -294,7 +310,8 @@
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
             "stars": 963
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -309,7 +326,8 @@
             "owner": "devnullvoid",
             "repo": "pvetui",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -323,8 +341,9 @@
             "last_commit": "2026-08-21T12:42:34Z",
             "owner": "community-scripts",
             "repo": "ProxmoxVE-Local",
-            "stars": 369
-          }
+            "stars": 370
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -338,8 +357,9 @@
             "last_commit": "2026-08-25T14:56:17Z",
             "owner": "dockur",
             "repo": "proxmox",
-            "stars": 299
-          }
+            "stars": 300
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -354,7 +374,8 @@
             "owner": "Corsinvest",
             "repo": "cv4pve-cli",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -369,7 +390,8 @@
             "owner": "TimInTech",
             "repo": "proxmox-manager",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -384,7 +406,8 @@
             "owner": "Reginleif86",
             "repo": "proxtagger",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "CLI & Community Tools"
@@ -401,11 +424,12 @@
             "archived": false,
             "id": 1134214215,
             "language": "Python",
-            "last_commit": "2026-08-20T12:15:17Z",
+            "last_commit": "2026-08-28T08:50:33Z",
             "owner": "credativ",
             "repo": "ProxLB",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -420,7 +444,8 @@
             "owner": "gyptazy",
             "repo": "ProxCLMC",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Cluster Tools"
@@ -443,7 +468,8 @@
                 "owner": "ryzenixx",
                 "repo": "proxmoxbar-macos",
                 "stars": 177
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.691Z"
             }
           ],
           "description": null,
@@ -469,7 +495,8 @@
             "owner": "SwamiRama",
             "repo": "10-ways-to-ruin-proxmox",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Documentation"
@@ -489,8 +516,9 @@
             "last_commit": "2026-08-24T06:54:11Z",
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 363
-          }
+            "stars": 367
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -504,8 +532,9 @@
             "last_commit": "2026-08-27T04:53:12Z",
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 264
-          }
+            "stars": 266
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -520,7 +549,8 @@
             "owner": "PawelSzymanski89",
             "repo": "valheim-proxmox",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -535,7 +565,8 @@
             "owner": "RobertLukan",
             "repo": "proxmox-guestos-customization",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Guest Automation"
@@ -552,11 +583,12 @@
             "archived": false,
             "id": 404135384,
             "language": "Go",
-            "last_commit": "2026-08-25T21:58:24Z",
+            "last_commit": "2026-08-28T10:38:11Z",
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2200
-          }
+            "stars": 2202
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -571,7 +603,8 @@
             "owner": "lae",
             "repo": "ansible-role-proxmox",
             "stars": 688
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -586,7 +619,8 @@
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
             "stars": 580
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -601,7 +635,8 @@
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 475
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -612,11 +647,12 @@
             "archived": false,
             "id": 429829622,
             "language": "Go",
-            "last_commit": "2026-08-27T03:06:44Z",
+            "last_commit": "2026-08-28T19:46:36Z",
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -631,7 +667,8 @@
             "owner": "hashicorp",
             "repo": "packer-plugin-proxmox",
             "stars": 223
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -646,7 +683,8 @@
             "owner": "ansible-collections",
             "repo": "community.proxmox",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -661,7 +699,8 @@
             "owner": "natrontech",
             "repo": "packer-plugin-proxmox",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Infrastructure as Code"
@@ -682,7 +721,8 @@
             "owner": "bl4ko",
             "repo": "netbox-ssot",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Inventory"
@@ -703,7 +743,8 @@
             "owner": "AthenaNetworks",
             "repo": "ProxMigrate",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Migration"
@@ -726,7 +767,8 @@
                 "owner": "JoshuaShunk",
                 "repo": "reeve",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T21:21:12.691Z"
             }
           ],
           "description": null,
@@ -748,11 +790,12 @@
             "archived": false,
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-27T20:43:49Z",
+            "last_commit": "2026-08-28T20:56:35Z",
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6627
-          }
+            "stars": 6632
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -763,11 +806,12 @@
             "archived": false,
             "id": 101076642,
             "language": "Python",
-            "last_commit": "2026-08-26T18:38:30Z",
+            "last_commit": "2026-08-28T09:26:16Z",
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1441
-          }
+            "stars": 1444
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -781,8 +825,9 @@
             "last_commit": "2026-08-22T22:47:56Z",
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 193
-          }
+            "stars": 195
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -797,7 +842,8 @@
             "owner": "nbuchwitz",
             "repo": "check_pve",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -812,7 +858,8 @@
             "owner": "natrontech",
             "repo": "pbs-exporter",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Monitoring"
@@ -833,7 +880,8 @@
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -848,7 +896,8 @@
             "owner": "AungThuMyint",
             "repo": "ProxmoxReportGenerator",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Reporting"
@@ -869,7 +918,8 @@
             "owner": "dougiteixeira",
             "repo": "proxmoxve",
             "stars": 960
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -884,7 +934,8 @@
             "owner": "Javisen",
             "repo": "proxmox_sensors",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -899,7 +950,8 @@
             "owner": "Sundancer78",
             "repo": "proxmox-suits",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Smarthome"
@@ -919,8 +971,9 @@
             "last_commit": "2026-02-09T16:04:52Z",
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 544
-          }
+            "stars": 545
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -935,7 +988,8 @@
             "owner": "Flowtriq",
             "repo": "proxmox-ftagent",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Security"
@@ -956,7 +1010,8 @@
             "owner": "WarlockSyno",
             "repo": "TrueNAS-Proxmox-VE-Storage-Plugin",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -971,7 +1026,8 @@
             "owner": "kolesa-team",
             "repo": "pve-purestorage-plugin",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -986,7 +1042,8 @@
             "owner": "brngates98",
             "repo": "pve-nimble-plugin",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         },
         {
           "node_type": "item",
@@ -1001,14 +1058,15 @@
             "owner": "abdoufermat5",
             "repo": "snapbridge",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:21:12.691Z"
         }
       ],
       "title": "Storage"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:59:40.028Z",
+    "last_updated": "2026-08-28T21:21:12.691Z",
     "original_repository_info": {
       "archived": false,
       "id": 811014471,
@@ -1016,7 +1074,7 @@
       "last_commit": "2026-08-27T19:30:31Z",
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
-      "stars": 80
+      "stars": 81
     },
     "original_repository_sha": "755a2b99bcea87338593aabe5e2b643dbc8a9a1b",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
