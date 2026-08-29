@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
+            "homepage": "https://github.com/RekklesNA/ProxmoxMCP-Plus#readme",
             "id": 988856738,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-11T13:40:28Z",
+            "open_issues": 2,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 508
+            "stars": 509,
+            "topics": [
+              "ai-agent",
+              "automation",
+              "claude-desktop",
+              "homelab",
+              "llm",
+              "lxc",
+              "mcp",
+              "model-context-protocol",
+              "open-webui",
+              "openapi",
+              "proxmox",
+              "qemu",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -26,12 +45,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP for Proxmox integration in Cline",
+            "homepage": null,
             "id": 935187419,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-19T20:16:13Z",
+            "open_issues": 15,
             "owner": "canvrno",
             "repo": "ProxmoxMCP",
-            "stars": 287
+            "stars": 287,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -42,12 +66,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Proxmox MCP you can hand the keys. All four products: PVE, PBS, PMG, PDM.",
+            "homepage": "https://john-broadway.github.io/proximo/",
             "id": 1265706142,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T07:45:40Z",
+            "open_issues": 0,
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "a2a",
+              "agents",
+              "ai-agents",
+              "api",
+              "devops",
+              "homelab",
+              "infrastructure",
+              "llm-tools",
+              "mcp",
+              "mcp-server",
+              "model-context-protocol",
+              "multi-cluster",
+              "pbs",
+              "proxmox",
+              "proxmox-backup-server",
+              "proxmox-datacenter-manager",
+              "proxmox-mail-gateway",
+              "proxmox-ve",
+              "pve",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -69,12 +119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Consume the proxmox API in golang",
+                "homepage": null,
                 "id": 81260810,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:54:36Z",
+                "open_issues": 55,
                 "owner": "Telmate",
                 "repo": "proxmox-api-go",
-                "stars": 491
+                "stars": 491,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:12.691Z"
             },
@@ -85,12 +140,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go client with types and tests for the Proxmox-VE REST API",
+                "homepage": null,
                 "id": 376145235,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T05:15:12Z",
+                "open_issues": 2,
                 "owner": "luthermonson",
                 "repo": "go-proxmox",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "go",
+                  "golang",
+                  "golang-package",
+                  "lxc-containers",
+                  "proxmox",
+                  "proxmox-apis",
+                  "proxmox-cluster",
+                  "proxmox-ve",
+                  "qemu"
+                ]
               },
               "first_seen": "2026-08-28T21:21:12.691Z"
             }
@@ -108,12 +180,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proxmox VE Client API Java",
+                "homepage": "https://www.corsinvest.it/cv4pve",
                 "id": 103278308,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-07-26T14:39:29Z",
+                "open_issues": 0,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "api",
+                  "api-client",
+                  "api-rest",
+                  "api-token",
+                  "cluster",
+                  "gradle",
+                  "java",
+                  "library",
+                  "lxc",
+                  "maven",
+                  "maven-central",
+                  "proxmox",
+                  "proxmox-apis",
+                  "proxmox-cluster",
+                  "proxmox-ve",
+                  "proxmoxve",
+                  "pve",
+                  "qemu",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:21:12.691Z"
             }
@@ -132,12 +229,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically scale virtual machines resources on Proxmox hosts",
+            "homepage": null,
             "id": 864497613,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T12:46:41Z",
+            "open_issues": 3,
             "owner": "fabriziosalmi",
             "repo": "proxmox-vm-autoscale",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "autoscale",
+              "autoscaling",
+              "proxmox",
+              "proxmox-infrastructure",
+              "resource-manager",
+              "scaling",
+              "threshold",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -148,12 +259,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically scale LXC containers resources on Proxmox hosts",
+            "homepage": "https://fabriziosalmi.github.io/proxmox-lxc-autoscale/",
             "id": 842197070,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:08:49Z",
+            "open_issues": 18,
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "autoscaler",
+              "autoscaling",
+              "autoscaling-groups",
+              "containers",
+              "lxc",
+              "lxc-containers",
+              "proxmox",
+              "proxmox-infrastructure",
+              "proxmox-tools",
+              "scalability"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -170,12 +297,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic snapshot tool for Proxmox VE VMs and containers with retention policies",
+            "homepage": "https://www.corsinvest.it/cv4pve",
             "id": 76440908,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-03T14:50:37Z",
+            "open_issues": 4,
             "owner": "Corsinvest",
             "repo": "cv4pve-autosnap",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "automation",
+              "autosnap",
+              "backup",
+              "cli",
+              "cluster",
+              "continuous-protection",
+              "cron",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "kvm",
+              "lxc",
+              "proxmox",
+              "proxmox-cluster",
+              "proxmox-ve",
+              "proxmoxve",
+              "qemu",
+              "retention",
+              "snapshot",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -186,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backup tool for Proxmox  PBS & PVE System Files with advanced features and notifications",
+            "homepage": null,
             "id": 1015894877,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:59:32Z",
+            "open_issues": 1,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 514
+            "stars": 514,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -202,12 +360,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wake-on-LAN backup scheduler for Proxmox VE + PBS - let your backup servers sleep",
+            "homepage": "https://www.joulenap.com",
             "id": 1287505057,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T23:44:34Z",
+            "open_issues": 0,
             "owner": "Joulenap",
             "repo": "joulenap",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "backup",
+              "docker",
+              "energy-saving",
+              "fastapi",
+              "homelab",
+              "pbs",
+              "proxmox",
+              "proxmox-backup-server",
+              "scheduler",
+              "self-hosted",
+              "wake-on-lan",
+              "wol"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -218,12 +394,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProxSnap is a lightweight snapshot manager and cleanup tool for Proxmox clusters written in Rust",
+            "homepage": "https://gyptazy.com/proxsnap/",
             "id": 1135929359,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-22T15:49:09Z",
+            "open_issues": 0,
             "owner": "gyptazy",
             "repo": "ProxSnap",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "proxmox",
+              "proxmox-api",
+              "proxmox-cluster",
+              "proxmox-infrastructure",
+              "proxmox-tools",
+              "proxmox-ve",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -234,12 +424,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-enable Proxmox snapshots for LXC containers with bind/device mounts",
+            "homepage": null,
             "id": 1261962451,
             "language": "Perl",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T21:01:02Z",
+            "open_issues": 0,
             "owner": "bitranox",
             "repo": "pve-bindsnap",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "bind-mount",
+              "containers",
+              "lxc",
+              "perl",
+              "proxmox",
+              "proxmox-ve",
+              "pve",
+              "snapshot"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -256,12 +460,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox VE Helper-Scripts (Community Edition) ",
+            "homepage": "https://community-scripts.org/",
             "id": 881925790,
             "language": "Shell",
-            "last_commit": "2026-08-28T15:09:51Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:04:56Z",
+            "open_issues": 19,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29421
+            "stars": 29420,
+            "topics": [
+              "alpine",
+              "authentification",
+              "container",
+              "debian",
+              "docker",
+              "home-assistant",
+              "home-automation",
+              "homelab",
+              "homelab-setup",
+              "lxc",
+              "network",
+              "proxmox",
+              "proxmox-ve",
+              "scripts",
+              "security",
+              "self-hosted",
+              "self-hosting",
+              "smarthome",
+              "ubuntu",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -272,12 +502,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.",
+            "homepage": null,
             "id": 906342938,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T16:41:40Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:36:55Z",
+            "open_issues": 24,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2916
+            "stars": 2917,
+            "topics": [
+              "backup",
+              "bash",
+              "dashboard",
+              "homelab",
+              "monitoring",
+              "proxmox",
+              "proxmox-ve",
+              "pwa",
+              "self-hosted",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -288,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox modifications",
+            "homepage": null,
             "id": 632102111,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-23T14:15:07Z",
+            "open_issues": 16,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1891
+            "stars": 1891,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -304,12 +555,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Is a comprehensive and versatile Bash script designed to simplify and optimize the configuration and management of Proxmox Virtual Environment (VE) systems. ",
+            "homepage": "http://pecu.tools/",
             "id": 664006718,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-17T22:56:40Z",
+            "open_issues": 10,
             "owner": "Danilop95",
             "repo": "Proxmox-Enhanced-Configuration-Utility",
-            "stars": 963
+            "stars": 963,
+            "topics": [
+              "automation-scripts",
+              "debian",
+              "gpu-passthrough",
+              "homelab-automation",
+              "kmu",
+              "pecu",
+              "proxmox-ve",
+              "sysadmin-scripts",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -320,12 +586,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal UI for Proxmox VE",
+            "homepage": "https://pvetui.org",
             "id": 977212376,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:39:31Z",
+            "open_issues": 12,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 714
+            "stars": 714,
+            "topics": [
+              "go",
+              "proxmox",
+              "proxmox-ve",
+              "pve",
+              "terminal-ui",
+              "tui",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -336,12 +615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local version of the ProxmoxVE Repostory",
+            "homepage": null,
             "id": 1069104196,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-21T12:42:34Z",
+            "open_issues": 7,
             "owner": "community-scripts",
             "repo": "ProxmoxVE-Local",
-            "stars": 370
+            "stars": 370,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -352,12 +636,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox VE inside a Docker container.",
+            "homepage": null,
             "id": 1249324515,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:56:17Z",
+            "open_issues": 3,
             "owner": "dockur",
             "repo": "proxmox",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "docker-container",
+              "docker-image",
+              "homelab",
+              "proxmox",
+              "proxmox-tools",
+              "proxmox-ve",
+              "self-hosting"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -368,12 +665,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-style remote CLI for Proxmox VE with multi-cluster support and shell completion",
+            "homepage": "https://www.corsinvest.it/cv4pve",
             "id": 195868531,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-14T05:52:13Z",
+            "open_issues": 0,
             "owner": "Corsinvest",
             "repo": "cv4pve-cli",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "api-client",
+              "cli",
+              "cluster",
+              "command-line-interface",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "infrastructure",
+              "kvm",
+              "lxc",
+              "proxmox",
+              "proxmox-apis",
+              "proxmox-cluster",
+              "proxmox-ve",
+              "proxmoxve",
+              "sysadmin",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -384,12 +704,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox VM/CT Management Tool – A robust Bash TUI for managing Proxmox virtual machines and containers. Features include listing, status, start/stop/restart, snapshot management, console access, SPICE integration, and permission checks.",
+            "homepage": null,
             "id": 1047673244,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-22T11:45:48Z",
+            "open_issues": 1,
             "owner": "TimInTech",
             "repo": "proxmox-manager",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "automation",
+              "bash",
+              "bash-script",
+              "homelab",
+              "linux",
+              "lxc",
+              "proxmox",
+              "proxmox-ve",
+              "self-hosting",
+              "shell",
+              "shell-script",
+              "snapshot",
+              "spice",
+              "tui",
+              "virtualization",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -400,12 +742,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, open-source web interface to bulk manage Proxmox VM and container tags with backup/restore functionality, conditional tag management and advanced filering.",
+            "homepage": null,
             "id": 956858863,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-12T21:23:13Z",
+            "open_issues": 0,
             "owner": "Reginleif86",
             "repo": "proxtagger",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "open-source",
+              "proxmox"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -422,12 +772,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProxLB - An advanced resource scheduler and load balancer for Proxmox clusters.",
+            "homepage": "https://proxlb.de",
             "id": 1134214215,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T08:50:33Z",
+            "open_issues": 11,
             "owner": "credativ",
             "repo": "ProxLB",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "proxlb",
+              "proxmox",
+              "proxmox-api",
+              "proxmox-cluster",
+              "proxmox-infrastructure",
+              "proxmox-tools",
+              "proxmox-ve",
+              "proxmoxve"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -438,12 +802,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProxCLMC is a lightweight tool to determine the maximum CPU compatibility level that is supported across all nodes in a Proxmox VE cluster.",
+            "homepage": "https://gyptazy.com/proxclmc/",
             "id": 1120230131,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-15T12:18:44Z",
+            "open_issues": 0,
             "owner": "gyptazy",
             "repo": "ProxCLMC",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "cluster",
+              "cpu",
+              "cpu-compatible",
+              "evc",
+              "kvm",
+              "proxclmc",
+              "proxmox",
+              "proxmoxve",
+              "pve",
+              "rust",
+              "x86-64-v2-aes",
+              "x86-64-v3",
+              "x86-64-v4"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -462,12 +845,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control and monitor your Proxmox VE servers from the macOS menu bar",
+                "homepage": null,
                 "id": 1131928615,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-26T01:44:13Z",
+                "open_issues": 2,
                 "owner": "ryzenixx",
                 "repo": "proxmoxbar-macos",
-                "stars": 177
+                "stars": 177,
+                "topics": [
+                  "homelab",
+                  "macos",
+                  "macos-app",
+                  "menubar",
+                  "monitoring",
+                  "proxmox",
+                  "proxmox-ve",
+                  "self-hosted",
+                  "swift",
+                  "swiftui",
+                  "virtualization"
+                ]
               },
               "first_seen": "2026-08-28T21:21:12.691Z"
             }
@@ -489,12 +889,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A practical field guide to Proxmox VE anti-patterns: 10 ways to wreck your setup, and how to avoid them.",
+            "homepage": null,
             "id": 1127639606,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-01-05T10:22:42Z",
+            "open_issues": 1,
             "owner": "SwamiRama",
             "repo": "10-ways-to-ruin-proxmox",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "ebook",
+              "guide",
+              "homelab",
+              "proxmox",
+              "sysadmin",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -511,12 +923,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.",
+            "homepage": "https://rcarmo.github.io/projects/pve-microvm",
             "id": 1214386818,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T06:54:11Z",
+            "open_issues": 2,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 367
+            "stars": 367,
+            "topics": [
+              "homelab",
+              "microvm",
+              "proxmox",
+              "sandboxing"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -527,12 +949,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-command macOS VM on Proxmox 9: TUI wizard, auto-download, AMD + Intel, Sonoma/Sequoia/Tahoe",
+            "homepage": "https://lucid-fabrics.github.io/osx-proxmox-next/",
             "id": 1153257898,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T04:53:12Z",
+            "open_issues": 0,
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "apple",
+              "hackintosh",
+              "homelab",
+              "kvm",
+              "macos",
+              "macos-sequoia",
+              "macos-sonoma",
+              "macos-tahoe",
+              "macos-vm",
+              "opencore",
+              "proxmox",
+              "proxmox-scripts",
+              "proxmox-ve",
+              "qemu",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -543,12 +986,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-line Proxmox installer: Valheim dedicated server in an LXC + web admin panel (players, bans, worlds, backups, settings)",
+            "homepage": null,
             "id": 1318468020,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-04T06:35:57Z",
+            "open_issues": 0,
             "owner": "PawelSzymanski89",
             "repo": "valheim-proxmox",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "dedicated-server",
+              "fastapi",
+              "game-server",
+              "homelab",
+              "lxc",
+              "proxmox",
+              "proxmox-ve",
+              "self-hosted",
+              "steamcmd",
+              "valheim"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -559,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1083421655,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T14:34:49Z",
+            "open_issues": 10,
             "owner": "RobertLukan",
             "repo": "proxmox-guestos-customization",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -581,12 +1045,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform / OpenTofu Provider for Proxmox VE",
+            "homepage": "https://bpg.sh/docs/",
             "id": 404135384,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T10:38:11Z",
+            "open_issues": 115,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2202
+            "stars": 2202,
+            "topics": [
+              "opentofu",
+              "proxmox",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -597,12 +1071,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IaC for Proxmox VE clusters.",
+            "homepage": null,
             "id": 68048671,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-13T06:08:07Z",
+            "open_issues": 20,
             "owner": "lae",
             "repo": "ansible-role-proxmox",
-            "stars": 688
+            "stars": 688,
+            "topics": [
+              "ansible",
+              "hacktoberfest",
+              "proxmox",
+              "proxmox-cluster",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -613,12 +1098,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IaC Automation Framework for Linux Containers (LXC) on Proxmox VE.",
+            "homepage": "http://demo.gitops.pm",
             "id": 1013641879,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-18T10:41:41Z",
+            "open_issues": 1,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 580
+            "stars": 580,
+            "topics": [
+              "automation",
+              "container",
+              "devops",
+              "gitops",
+              "iac",
+              "lxc",
+              "proxmox",
+              "pve"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -629,12 +1128,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cluster API Provider for Proxmox VE (CAPMOX)",
+            "homepage": null,
             "id": 725111108,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:33:58Z",
+            "open_issues": 116,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 475
+            "stars": 475,
+            "topics": [
+              "cluster-api",
+              "kubernetes",
+              "proxmox"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -645,12 +1153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pulumi provider for creating and managing Proxmox VE resources",
+            "homepage": null,
             "id": 429829622,
             "language": "Go",
-            "last_commit": "2026-08-28T19:46:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:09:31Z",
+            "open_issues": 25,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "proxmox",
+              "proxmox-ve",
+              "pulumi",
+              "pulumi-provider"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -661,12 +1179,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for Proxmox Builder",
+            "homepage": "https://www.packer.io/docs/builders/proxmox",
             "id": 358037246,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-16T11:03:07Z",
+            "open_issues": 94,
             "owner": "hashicorp",
             "repo": "packer-plugin-proxmox",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "packer",
+              "packer-plugin",
+              "proxmox"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -677,12 +1204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 754543571,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T13:53:41Z",
+            "open_issues": 85,
             "owner": "ansible-collections",
             "repo": "community.proxmox",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -693,12 +1225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packer plugin for Proxmox Builder",
+            "homepage": "https://www.packer.io/docs/builders/proxmox",
             "id": 1274360797,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-22T09:17:40Z",
+            "open_issues": 0,
             "owner": "natrontech",
             "repo": "packer-plugin-proxmox",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -715,12 +1252,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservice that syncs objects from multiple sources into NetBox as automatic SSOT",
+            "homepage": null,
             "id": 729261077,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T00:17:28Z",
+            "open_issues": 8,
             "owner": "bl4ko",
             "repo": "netbox-ssot",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "autosync",
+              "cisco-dna-center",
+              "dnac",
+              "fortigate",
+              "go",
+              "netbox",
+              "netbox-automation",
+              "olvm",
+              "ovirt",
+              "paloalto",
+              "paloaltonetworks",
+              "proxmox",
+              "ssot",
+              "sync",
+              "vcenter",
+              "vmware"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -737,12 +1296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Migrate Proxmox VM's across clusters",
+            "homepage": null,
             "id": 1025383607,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T06:57:41Z",
+            "open_issues": 0,
             "owner": "AthenaNetworks",
             "repo": "ProxMigrate",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -761,12 +1325,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Native SwiftUI app for iOS to monitor, manage, and automate a Proxmox VE homelab.",
+                "homepage": "https://reeveapp.io",
                 "id": 1255542421,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-13T18:37:33Z",
+                "open_issues": 5,
                 "owner": "JoshuaShunk",
                 "repo": "reeve",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "homelab",
+                  "ios",
+                  "ipados",
+                  "macos",
+                  "proxmox",
+                  "proxmox-ve",
+                  "self-hosted",
+                  "swift",
+                  "swiftui"
+                ]
               },
               "first_seen": "2026-08-28T21:21:12.691Z"
             }
@@ -788,12 +1367,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
+            "homepage": "https://pulserelay.pro",
             "id": 932825524,
             "language": "Go",
-            "last_commit": "2026-08-28T20:56:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:19:20Z",
+            "open_issues": 16,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6632
+            "stars": 6633,
+            "topics": [
+              "ai",
+              "alerts",
+              "dashboard",
+              "docker",
+              "docker-monitoring",
+              "go",
+              "homelab",
+              "infrastructure-monitoring",
+              "kubernetes",
+              "monitoring",
+              "msp",
+              "proxmox",
+              "proxmox-backup-server",
+              "proxmox-mail-gateway",
+              "proxmox-ve",
+              "self-hosted",
+              "truenas",
+              "typescript",
+              "vsphere",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -804,12 +1409,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system",
+            "homepage": null,
             "id": 101076642,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:26:16Z",
+            "open_issues": 31,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1444
+            "stars": 1444,
+            "topics": [
+              "prometheus",
+              "prometheus-exporter",
+              "proxmox",
+              "proxmox-cluster",
+              "proxmox-ve"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -820,12 +1436,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1301376039,
             "language": "Python",
-            "last_commit": "2026-08-22T22:47:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:56:06Z",
+            "open_issues": 2,
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 195
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -836,12 +1457,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icinga check command for Proxmox VE via API",
+            "homepage": null,
             "id": 116843155,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-05T12:05:44Z",
+            "open_issues": 10,
             "owner": "nbuchwitz",
             "repo": "check_pve",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "hacktoberfest",
+              "icinga2",
+              "monitoring",
+              "proxmox",
+              "proxmox-ve",
+              "pve"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -852,12 +1485,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A prometheus exporter for Proxmox Backup Server",
+            "homepage": null,
             "id": 681229414,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T08:00:40Z",
+            "open_issues": 8,
             "owner": "natrontech",
             "repo": "pbs-exporter",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "golang",
+              "prometheus-exporter",
+              "proxmox-backup-server"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -874,12 +1516,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export Proxmox VE infrastructure to a navigable Excel, HTML or JSON report — like RVTools for Proxmox",
+            "homepage": "https://www.corsinvest.it/cv4pve",
             "id": 1193664022,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-01T07:22:08Z",
+            "open_issues": 2,
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "audit",
+              "cluster",
+              "compliance",
+              "cross-platform",
+              "csharp",
+              "dotnet",
+              "excel",
+              "infrastructure",
+              "inventory",
+              "proxmox",
+              "proxmox-cluster",
+              "proxmox-ve",
+              "proxmoxve",
+              "report",
+              "reporting",
+              "rvtools",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -890,12 +1555,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Report PDF Generator For Your Proxmox Virtual Environment",
+            "homepage": null,
             "id": 1060849762,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-11T11:16:46Z",
+            "open_issues": 0,
             "owner": "AungThuMyint",
             "repo": "ProxmoxReportGenerator",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -912,12 +1582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox VE Custom Integration Home Assistant",
+            "homepage": null,
             "id": 514096198,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-14T13:50:49Z",
+            "open_issues": 43,
             "owner": "dougiteixeira",
             "repo": "proxmoxve",
-            "stars": 960
+            "stars": 960,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -928,12 +1603,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sensors for Proxmox VE & PBS",
+            "homepage": null,
             "id": 1133883313,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T11:02:36Z",
+            "open_issues": 13,
             "owner": "Javisen",
             "repo": "proxmox_sensors",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "home-assistant-hacs-integration-proxmox"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -944,12 +1626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home Assistant integration for monitoring Proxmox VE and Proxmox Backup Server (PBS) with tasks, datastores, and IEC (GiB) sensors.",
+            "homepage": null,
             "id": 1146846549,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-01T08:12:16Z",
+            "open_issues": 0,
             "owner": "Sundancer78",
             "repo": "proxmox-suits",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -966,12 +1653,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.",
+            "homepage": null,
             "id": 1047884111,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-02-09T16:04:52Z",
+            "open_issues": 0,
             "owner": "HomeSecExplorer",
             "repo": "Proxmox-Hardening-Guide",
-            "stars": 545
+            "stars": 545,
+            "topics": [
+              "ceph",
+              "cis",
+              "debian",
+              "enterprise",
+              "hardening",
+              "homelab",
+              "pbs",
+              "proxmox",
+              "proxmox-backup-server",
+              "proxmox-ve",
+              "pve",
+              "security",
+              "virtualization",
+              "zfs"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -982,12 +1689,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proxmox VE helper script for Flowtriq Agent (ftagent). One-command LXC container deploy for DDoS detection on Proxmox.",
+            "homepage": "https://flowtriq.com",
             "id": 1275633315,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-29T23:50:26Z",
+            "open_issues": 0,
             "owner": "Flowtriq",
             "repo": "proxmox-ftagent",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "ddos",
+              "ddos-detection",
+              "ddos-protection",
+              "flowtriq",
+              "ftagent",
+              "lxc",
+              "network-security",
+              "proxmox",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -1004,12 +1726,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Treat TrueNAS as a native storage provider in Proxmox VE",
+            "homepage": null,
             "id": 1065013209,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-02T00:23:48Z",
+            "open_issues": 6,
             "owner": "WarlockSyno",
             "repo": "TrueNAS-Proxmox-VE-Storage-Plugin",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "proxmox",
+              "proxmox-cluster",
+              "proxmox-ve",
+              "truenas",
+              "truenas-scale"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -1020,12 +1753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 891429989,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2026-05-03T21:18:16Z",
+            "open_issues": 14,
             "owner": "kolesa-team",
             "repo": "pve-purestorage-plugin",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -1036,12 +1774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1182029117,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2026-07-20T23:13:50Z",
+            "open_issues": 0,
             "owner": "brngates98",
             "repo": "pve-nimble-plugin",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         },
@@ -1052,12 +1795,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "snapbridge is a Rust CLI for managing Proxmox snapshots on NetApp ONTAP-backed storage.",
+            "homepage": null,
             "id": 1211395509,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-04-16T08:06:53Z",
+            "open_issues": 0,
             "owner": "abdoufermat5",
             "repo": "snapbridge",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cluster",
+              "nas",
+              "netapp",
+              "ontap",
+              "proxmox",
+              "proxmox-ve",
+              "pve-cluster",
+              "rust",
+              "san",
+              "snapshot"
+            ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
         }
@@ -1066,15 +1825,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:12.691Z",
+    "last_updated": "2026-08-29T05:04:58.091Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Proxmox VE related software, tools and documentation.",
+      "homepage": null,
       "id": 811014471,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-27T19:30:31Z",
+      "open_issues": 0,
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
-      "stars": 81
+      "stars": 81,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kvm",
+        "kvm-hypervisor",
+        "linux",
+        "proxmox",
+        "proxmox-backup",
+        "proxmox-backup-server",
+        "proxmox-cluster",
+        "proxmox-tools",
+        "proxmox-ve",
+        "virtualization"
+      ]
     },
     "original_repository_sha": "755a2b99bcea87338593aabe5e2b643dbc8a9a1b",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
