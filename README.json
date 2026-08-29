@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 509,
+            "stars": 511,
             "topics": [
               "ai-agent",
               "automation",
@@ -54,7 +54,7 @@
             "open_issues": 15,
             "owner": "canvrno",
             "repo": "ProxmoxMCP",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -345,7 +345,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-28T10:59:32Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "tis24dev",
             "repo": "proxsave",
             "stars": 514,
@@ -403,7 +403,7 @@
             "open_issues": 0,
             "owner": "gyptazy",
             "repo": "ProxSnap",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "proxmox",
               "proxmox-api",
@@ -466,10 +466,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-29T02:04:56Z",
-            "open_issues": 19,
+            "open_issues": 25,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29420,
+            "stars": 29426,
             "topics": [
               "alpine",
               "authentification",
@@ -507,11 +507,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T21:36:55Z",
+            "last_commit": "2026-08-29T15:00:39Z",
             "open_issues": 24,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2917,
+            "stars": 2918,
             "topics": [
               "backup",
               "bash",
@@ -543,7 +543,7 @@
             "open_issues": 16,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1891,
+            "stars": 1895,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -641,7 +641,7 @@
             "id": 1249324515,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-25T14:56:17Z",
+            "last_commit": "2026-08-29T05:23:18Z",
             "open_issues": 3,
             "owner": "dockur",
             "repo": "proxmox",
@@ -1050,8 +1050,8 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-28T10:38:11Z",
-            "open_issues": 115,
+            "last_commit": "2026-08-29T08:34:21Z",
+            "open_issues": 118,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
             "stars": 2202,
@@ -1334,7 +1334,7 @@
                 "open_issues": 5,
                 "owner": "JoshuaShunk",
                 "repo": "reeve",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "homelab",
                   "ios",
@@ -1372,11 +1372,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:19:20Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-29T15:31:55Z",
+            "open_issues": 20,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6633,
+            "stars": 6638,
             "topics": [
               "ai",
               "alerts",
@@ -1415,10 +1415,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:26:16Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1444,
+            "stars": 1445,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -1825,7 +1825,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:58.091Z",
+    "last_updated": "2026-08-29T15:35:20.573Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
