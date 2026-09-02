@@ -34,20 +34,22 @@
 
 ## AI
 
-* [ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) ⭐ 516 | 🐛 3 | 🌐 Python | 📅 2026-08-11 - MCP and OpenAPI integration to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
+* [ProxmoxMCP-Plus](https://github.com/RekklesNA/ProxmoxMCP-Plus) ⭐ 517 | 🐛 3 | 🌐 Python | 📅 2026-08-11 - MCP and OpenAPI integration to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.
 * [ProxmoxMCP](https://github.com/canvrno/proxmoxmcp) ⭐ 288 | 🐛 15 | 🌐 Python | 📅 2025-02-19 - Python-based MCP server for interacting with Proxmox hypervisors, providing a clean interface for managing nodes, VMs, and containers.
-* [Proximo](https://github.com/john-broadway/proximo) ⭐ 41 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.
+* [Proximo](https://github.com/john-broadway/proximo) ⭐ 42 | 🐛 1 | 🌐 Python | 📅 2026-09-01 - MCP server for Proxmox VE, Backup Server, Mail Gateway, and Datacenter Manager with audited trust core (plan, prove, undo, diagnose). MCP + A2A.
 
 ## API
 
 * [Proxmox API documentation](https://pve.proxmox.com/pve-docs/api-viewer/index.html) - Explore the official API documentation.
 * Go
   * [Proxmox API Go](https://github.com/Telmate/proxmox-api-go) ⭐ 491 | 🐛 55 | 🌐 Go | 📅 2026-08-30 - Proxmox API in golang. For /api2/json.
-  * [go-proxmox](https://github.com/luthermonson/go-proxmox) ⭐ 283 | 🐛 2 | 🌐 Go | 📅 2026-08-09 - Typed Go client for the Proxmox VE REST API.
+  * [go-proxmox](https://github.com/luthermonson/go-proxmox) ⭐ 284 | 🐛 2 | 🌐 Go | 📅 2026-08-09 - Typed Go client for the Proxmox VE REST API.
 * Java
   * [Proxmox VE Client API Java](https://github.com/Corsinvest/cv4pve-api-java) ⭐ 78 | 🐛 0 | 🌐 Java | 📅 2026-07-26 - Java API client Libraries.
 * Perl
   * [Proxmox Perl API client](https://git.proxmox.com/?p=pve-apiclient.git;a=summary) - Official Proxmox Maintained Perl API.
+* PHP
+  * [cv4pve-api-php](https://github.com/Corsinvest/cv4pve-api-php) ⭐ 83 | 🐛 1 | 🌐 PHP | 📅 2026-05-29 - Proxmox VE Client API for PHP.
 * Powershell
   * [PowerShell for Proxmox VE](https://www.powershellgallery.com/packages/Corsinvest.ProxmoxVE.Api/) - CmdLet for PowerShell to manage Proxmox VE.
 * Python
@@ -60,9 +62,9 @@
 
 ## Backup Tools
 
-* [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) ⭐ 563 | 🐛 4 | 🌐 C# | 📅 2026-07-03 - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
-* [proxmox-backup](https://github.com/tis24dev/proxmox-backup) ⭐ 515 | 🐛 3 | 🌐 Go | 📅 2026-08-31 - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
-* [Joulenap](https://github.com/Joulenap/joulenap) ⭐ 123 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
+* [cv4pve-autosnap](https://github.com/Corsinvest/cv4pve-autosnap) ⭐ 563 | 🐛 3 | 🌐 C# | 📅 2026-07-03 - Automatic snapshots for VMs and containers with retention policies, via the Proxmox API.
+* [proxmox-backup](https://github.com/tis24dev/proxmox-backup) ⭐ 515 | 🐛 3 | 🌐 Go | 📅 2026-09-02 - Backup tool for Proxmox PBS & PVE System Files with advanced features and notifications.
+* [Joulenap](https://github.com/Joulenap/joulenap) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - Web UI and scheduler for backups to a Proxmox Backup Server that stays powered off: wakes it, runs the backups, prunes, garbage-collects and shuts it down. Any number of PVE hosts and PBS, PBS to PBS sync, notifications.
 * [ProxSnap](https://github.com/gyptazy/ProxSnap) ⭐ 22 | 🐛 0 | 🌐 Rust | 📅 2026-01-22 - Lightweight CLI tool for auditing and cleaning up snapshots across Proxmox VE clusters.
 * [pve-bindsnap](https://github.com/bitranox/pve-bindsnap) ⭐ 6 | 🐛 0 | 🌐 Perl | 📅 2026-08-27 - Snapshot LXC containers that have bind/device mounts, which stock Proxmox greys out, via a small AGPL overlay. Can also exclude specific volumes from a snapshot; works with the GUI, API, pct and cv4pve-autosnap.
 * [BACKUP EAGLE](https://www.backup-eagle.com/product/proxmox) - Backup Monitoring and Reporting. Centralised view of backups, backup system health and backup storage for on-prem and cloud backups.
@@ -82,27 +84,28 @@
 
 ## CLI & Community Tools
 
-* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,465 | 🐛 17 | 🌐 Shell | 📅 2026-09-01 - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
-* [ProxMenux](https://github.com/MacRimi/ProxMenux) ⭐ 2,925 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-01 - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
-* [PVE-mods](https://github.com/Meliox/PVE-mods) ⭐ 1,898 | 🐛 19 | 🌐 Shell | 📅 2026-08-23 - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
-* [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) ⭐ 965 | 🐛 10 | 🌐 Shell | 📅 2026-05-17 - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
+* [Proxmox VE Helper-Scripts](https://github.com/community-scripts/ProxmoxVE) ⭐ 29,476 | 🐛 16 | 🌐 Shell | 📅 2026-09-02 - Community-driven initiative that simplifies the setup of Proxmox Virtual Environment (VE).
+* [ProxMenux](https://github.com/MacRimi/ProxMenux) ⭐ 2,926 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-02 - Management tool for Proxmox VE that simplifies system administration through an interactive menu.
+* [PVE-mods](https://github.com/Meliox/PVE-mods) ⭐ 1,900 | 🐛 19 | 🌐 Shell | 📅 2026-08-23 - Small collection of scripts and mods for Proxmox Virtual Environment (PVE).
+* [Proxmox-Enhanced-Configuration-Utility (PECU)](https://github.com/Danilop95/Proxmox-Enhanced-Configuration-Utility) ⭐ 966 | 🐛 10 | 🌐 Shell | 📅 2026-05-17 - Versatile Bash script to simplify and optimize configuration and management of Proxmox VE systems.
 * [pvetui](https://github.com/devnullvoid/pvetui) ⭐ 718 | 🐛 12 | 🌐 Go | 📅 2026-08-31 - Terminal User Interface for Proxmox Virtual Environment.
 * [PVE Scripts Local](https://github.com/community-scripts/ProxmoxVE-Local) ⭐ 373 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 - Local web UI to browse and run Proxmox VE Helper-Scripts without curl-to-bash from the site.
-* [dockur/proxmox](https://github.com/dockur/proxmox) ⭐ 303 | 🐛 4 | 🌐 Shell | 📅 2026-08-30 - Full Proxmox VE node running inside a Docker container, for labs and CI.
+* [dockur/proxmox](https://github.com/dockur/proxmox) ⭐ 305 | 🐛 4 | 🌐 Shell | 📅 2026-08-30 - Full Proxmox VE node running inside a Docker container, for labs and CI.
 * [cv4pve-cli](https://github.com/Corsinvest/cv4pve-cli) ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-07-14 - kubectl-style remote CLI for Proxmox VE with multi-cluster contexts and shell completion.
 * [Proxmox Manager](https://github.com/TimInTech/proxmox-manager) ⭐ 71 | 🐛 1 | 🌐 Shell | 📅 2026-08-31 - Single-file Bash tool for managing Proxmox VMs and containers.
 * [proxtagger](https://github.com/reginleif88/proxtagger) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - Lightweight, open-source web interface to bulk manage Proxmox VM and container tags.
+* [Proxmox VMID Updater](https://github.com/sannier3/proxmox-vmid-updater) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-06-29 - Interactive Proxmox VM/LXC ID renaming script with automatic logging, safety checks, and storage path updates.
 
 ## Cluster Tools
 
 * [ProxLB](https://github.com/credativ/ProxLB) ⭐ 162 | 🐛 9 | 🌐 Python | 📅 2026-08-31 - Application to optimize the distribution of virtual machines across Proxmox cluster nodes for enhanced efficiency and performance.
-* [ProxCLMC](https://github.com/gyptazy/ProxCLMC) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2026-01-15 - Lightweight tool to determine the maximum CPU compatibility level supported across all nodes in a Proxmox VE cluster for live migration.
+* [ProxCLMC](https://github.com/credativ/ProxCLMC) ⭐ 37 | 🐛 1 | 🌐 Rust | 📅 2026-05-12 - Lightweight tool to determine the maximum CPU compatibility level supported across all nodes in a Proxmox VE cluster for live migration.
 
 ## Desktop Apps
 
 ### macOS
 
-* [ProxmoxBar](https://github.com/ryzenixx/proxmoxbar-macos) ⭐ 178 | 🐛 2 | 🌐 Swift | 📅 2026-08-26 - Native macOS menu bar app for monitoring and controlling Proxmox VE resources.
+* [ProxmoxBar](https://github.com/ryzenixx/proxmoxbar-macos) ⭐ 178 | 🐛 3 | 🌐 Swift | 📅 2026-09-02 - Native macOS menu bar app for monitoring and controlling Proxmox VE resources.
 
 ## Documentation
 
@@ -120,20 +123,20 @@
 
 ## Guest Automation
 
-* [pve-microvm](https://github.com/rcarmo/pve-microvm) ⭐ 368 | 🐛 2 | 🌐 Shell | 📅 2026-08-24 - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
-* [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) ⭐ 266 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
+* [pve-microvm](https://github.com/rcarmo/pve-microvm) ⭐ 369 | 🐛 2 | 🌐 Shell | 📅 2026-08-24 - Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.
+* [osx-proxmox](https://github.com/lucid-fabrics/osx-proxmox-next) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - One-command macOS VM automation for Proxmox 9 with TUI wizard, recovery image auto-download, and AMD/Intel CPU support for Sonoma, Sequoia, and Tahoe.
 * [valheim-proxmox](https://github.com/PawelSzymanski89/valheim-proxmox) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-08-04 - One-command Valheim dedicated server LXC with a web panel for players, bans, worlds, backups and mods
 * [proxmox-guestos-customization](https://github.com/RobertLukan/proxmox-guestos-customization) ⭐ 2 | 🐛 10 | 🌐 Python | 📅 2026-08-26 - Community Sysprep sidecar to clone and customize Windows templates on Proxmox VE (hostname, network, AD/workgroup) via the QEMU guest agent.
 
 ## Infrastructure as Code
 
-* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) ⭐ 2,207 | 🐛 114 | 🌐 Go | 📅 2026-09-01 - Terraform provider which adds support for Proxmox solutions.
+* [Terraform Provider for Proxmox](https://github.com/bpg/terraform-provider-proxmox) ⭐ 2,209 | 🐛 112 | 🌐 Go | 📅 2026-09-02 - Terraform provider which adds support for Proxmox solutions.
 * [Ansible Role - Proxmox](https://github.com/lae/ansible-role-proxmox) ⭐ 689 | 🐛 20 | 🌐 Python | 📅 2026-07-13 - Ansible role for installing and configuring Proxmox VE clusters.
 * [Proxmox-GitOps](https://github.com/stevius10/Proxmox-GitOps) ⭐ 579 | 🐛 0 | 🌐 Ruby | 📅 2026-08-30 - Self-contained GitOps environment for provisioning and orchestrating Linux Containers (LXC) on Proxmox VE.
-* [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) ⭐ 477 | 🐛 117 | 🌐 Go | 📅 2026-08-31 - Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.
-* [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) ⭐ 225 | 🐛 25 | 🌐 Go | 📅 2026-08-31 - Pulumi provider for creating and managing Proxmox VE resources.
+* [Cluster API Provider for Proxmox VE (CAPMOX)](https://github.com/ionos-cloud/cluster-api-provider-proxmox) ⭐ 478 | 🐛 117 | 🌐 Go | 📅 2026-09-02 - Kubernetes-style declarative APIs for cluster creation, configuration, and management on Proxmox VE.
+* [Pulumi Proxmox VE](https://github.com/muhlba91/pulumi-proxmoxve) ⭐ 226 | 🐛 25 | 🌐 Go | 📅 2026-09-02 - Pulumi provider for creating and managing Proxmox VE resources.
 * [Hashicorp packer-plugin-proxmox](https://github.com/hashicorp/packer-plugin-proxmox) ⭐ 223 | 🐛 94 | 🌐 Go | 📅 2026-07-16 - Official HashiCorp Packer plugin for building Proxmox VM templates.
-* [Ansible Collection - community.proxmox](https://github.com/ansible-collections/community.proxmox) ⭐ 142 | 🐛 86 | 🌐 Python | 📅 2026-08-24 - Canonical Ansible collection for managing Proxmox VE clusters, VMs, and containers.
+* [Ansible Collection - community.proxmox](https://github.com/ansible-collections/community.proxmox) ⭐ 142 | 🐛 88 | 🌐 Python | 📅 2026-08-24 - Canonical Ansible collection for managing Proxmox VE clusters, VMs, and containers.
 * [packer-plugin-proxmox](https://github.com/natrontech/packer-plugin-proxmox) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2026-06-22 - Packer plugin for Proxmox Builder.
 * [OpenTofu Provider for Proxmox](https://search.opentofu.org/provider/bpg/proxmox/latest) - OpenTofu provider which adds support for Proxmox solutions
 
@@ -181,18 +184,21 @@
 
 ## Monitoring
 
-* [Pulse](https://github.com/rcourtman/Pulse) ⭐ 6,655 | 🐛 33 | 🌐 Go | 📅 2026-09-01 - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
-* [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ⭐ 1,448 | 🐛 32 | 🌐 Python | 📅 2026-08-28 - Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.
+* [Pulse](https://github.com/rcourtman/Pulse) ⭐ 6,659 | 🐛 35 | 🌐 Go | 📅 2026-09-02 - Real-time monitoring for Proxmox VE, Proxmox Mail Gateway, PBS, and Docker infrastructure with alerts and webhooks.
+* [Prometheus Proxmox VE Exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) ⭐ 1,448 | 🐛 35 | 🌐 Python | 📅 2026-09-02 - Exporter that exposes information gathered from Proxmox VE nodes for use by the Prometheus monitoring system.
 * [PVE-UPS](https://github.com/ffind-dev/pve-ups) ⭐ 201 | 🐛 4 | 🌐 Python | 📅 2026-08-31 - GUI-based UPS shutdown appliance for Proxmox VE - a NUT alternative with a web wizard and no config files
 * [check\_pve](https://github.com/nbuchwitz/check_pve) ⭐ 134 | 🐛 10 | 🌐 Python | 📅 2026-02-05 - Icinga check command for Proxmox VE via API.
 * [pbs-exporter](https://github.com/natrontech/pbs-exporter) ⭐ 59 | 🐛 9 | 🌐 Go | 📅 2026-08-31 - Prometheus exporter for Proxmox Backup Server.
 * [CheckMK](https://checkmk.com/blog/proxmox-monitoring) - Proxmox Monitoring: How to Do it Efficiently with Checkmk.
+* [Datadog](https://docs.datadoghq.com/integrations/proxmox/) - Observability and security platform used to monitor applications, infrastructure, logs, networks, user experience, and cloud environments at any scale.
 * [Grafana: Proxmox via Prometheus](https://grafana.com/grafana/dashboards/10347-proxmox-via-prometheus/) - Standard Grafana dashboard for the Prometheus Proxmox VE exporter.
 * [LPAR2RRD](https://lpar2rrd.com/Proxmox-monitoring.php) - Server Performance Monitoring Tool - agentless monitoring, all data is gathered from Proxmox API.
+* [ManageEngine OpManager](https://www.manageengine.com/network-monitoring/proxmox-monitoring.html) -  Network and IT‑infrastructure monitoring platform.
 * [Netdata](https://www.netdata.cloud/integrations/data-collection/containers-and-vms/proxmox-ve/) - Real-time monitoring for infrastructure ranging from IoT devices to hybrid cloud environments with Proxmox VE support.
 * [PandoraFMS](https://pandorafms.com/blog/proxmox-ve-monitoring/) - Proxmox VE monitoring with Pandora FMS.
 * [Proxmox Atlas](https://proxmox-atlas.net/) - One dashboard. Every cluster. Real-time metrics, anomaly detection, and capacity planning.
 * [VictoriaMetrics](https://victoriametrics.com/blog/proxmox-monitoring-with-dbaas/) - The High-Performance, Open Source Time Series Database & Monitoring Solution.
+* [XorMon](https://xormon.com/server/monitoring/Proxmox/Proxmox-monitoring.php) - Unified performance monitoring across servers, virtualization platforms, storage systems, databases, containers, and cloud environments.
 * [Zabbix](https://www.zabbix.com/de/integrations/proxmox) - Template for monitoring Proxmox with Zabbix.
 
 ## Proxmox VE
@@ -212,7 +218,7 @@
 
 ## Security
 
-* [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) ⭐ 549 | 🐛 0 | 📅 2026-02-09 - Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.
+* [Proxmox Hardening Guide](https://github.com/HomeSecExplorer/Proxmox-Hardening-Guide) ⭐ 551 | 🐛 0 | 📅 2026-02-09 - Security hardening guides for PVE and PBS, built on CIS Debian Benchmark with Proxmox specific best practices.
 * [proxmox-ftagent](https://github.com/Flowtriq/proxmox-ftagent) ⭐ 0 | 🐛 0 | 🌐 Shell | 📅 2026-06-29 - One-command LXC deployment of the Flowtriq DDoS detection agent on Proxmox VE, with automatic dependency and systemd service setup.
 * [Proxmox VE Security Advisories](https://forum.proxmox.com/threads/proxmox-virtual-environment-security-advisories.149331/) - List of security advisories since 2024-01-01 for the Proxmox Virtual Environment.
 * [Proxmox VE Security Reporting](https://pve.proxmox.com/wiki/Security_Reporting) - How to report security issues to the Proxmox security team.
@@ -250,8 +256,8 @@
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md) ⭐ 81 | 🐛 0 | 📅 2026-08-27.
+Contributing guidelines can be found [here](https://github.com/alexgoesgit/awesome-proxmox-ve-virtualization/blob/main/contributing.md) ⭐ 81 | 🐛 0 | 📅 2026-09-01.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
