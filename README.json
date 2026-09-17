@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 538,
+            "stars": 539,
             "topics": [
               "ai-agent",
               "automation",
@@ -71,8 +71,8 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T21:30:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-17T07:04:48Z",
+            "open_issues": 0,
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 45,
@@ -149,7 +149,7 @@
                 "open_issues": 2,
                 "owner": "luthermonson",
                 "repo": "go-proxmox",
-                "stars": 288,
+                "stars": 289,
                 "topics": [
                   "api",
                   "api-client",
@@ -392,7 +392,7 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T13:22:55Z",
+            "last_commit": "2026-09-16T19:38:19Z",
             "open_issues": 4,
             "owner": "tis24dev",
             "repo": "proxsave",
@@ -413,8 +413,8 @@
             "id": 1287505057,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T08:45:18Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-17T08:44:01Z",
+            "open_issues": 4,
             "owner": "Joulenap",
             "repo": "joulenap",
             "stars": 126,
@@ -513,11 +513,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:45:56Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-17T13:00:36Z",
+            "open_issues": 24,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29604,
+            "stars": 29608,
             "topics": [
               "alpine",
               "authentification",
@@ -555,11 +555,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T09:20:12Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-17T10:44:02Z",
+            "open_issues": 13,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 2974,
+            "stars": 2975,
             "topics": [
               "backup",
               "bash",
@@ -587,11 +587,11 @@
             "id": 632102111,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-15T12:20:10Z",
+            "last_commit": "2026-09-16T20:13:01Z",
             "open_issues": 23,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1918,
+            "stars": 1921,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -693,7 +693,7 @@
             "open_issues": 4,
             "owner": "dockur",
             "repo": "proxmox",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "docker-container",
               "docker-image",
@@ -852,7 +852,7 @@
             "id": 1134214215,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-16T13:10:20Z",
+            "last_commit": "2026-09-17T12:45:42Z",
             "open_issues": 12,
             "owner": "credativ",
             "repo": "ProxLB",
@@ -936,43 +936,45 @@
           "description": null,
           "node_type": "group",
           "title": "macOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VirtDeck",
+              "description": "Native desktop client for Proxmox VE: monitoring, VM/container management, backups and direct Proxmox Backup Server integration (PySide6, Windows and Linux).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "VirtDeck — unofficial desktop client for Proxmox VE (PySide6)",
+                "homepage": null,
+                "id": 1259059007,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-09-15T08:29:16Z",
+                "open_issues": 0,
+                "owner": "mcluremail",
+                "repo": "virtdeck",
+                "stars": 1,
+                "topics": [
+                  "dashboard",
+                  "proxmox",
+                  "pve",
+                  "pyside6",
+                  "qt",
+                  "virtualization",
+                  "vm-management"
+                ]
+              },
+              "first_seen": "2026-09-17T15:31:21.856Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Windows & Linux"
         }
       ],
       "title": "Desktop Apps"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "10 Ways to Ruin Your Proxmox Setup - And How Not To",
-          "description": "Book about 10 common mistakes and how to avoid them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A practical field guide to Proxmox VE anti-patterns: 10 ways to wreck your setup, and how to avoid them.",
-            "homepage": null,
-            "id": 1127639606,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-01-05T10:22:42Z",
-            "open_issues": 1,
-            "owner": "SwamiRama",
-            "repo": "10-ways-to-ruin-proxmox",
-            "stars": 161,
-            "topics": [
-              "ebook",
-              "guide",
-              "homelab",
-              "proxmox",
-              "sysadmin",
-              "virtualization"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.691Z"
-        }
-      ],
-      "title": "Documentation"
     },
     {
       "description": null,
@@ -1019,7 +1021,7 @@
             "open_issues": 0,
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
-            "stars": 271,
+            "stars": 273,
             "topics": [
               "apple",
               "hackintosh",
@@ -1115,7 +1117,7 @@
             "open_issues": 100,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2229,
+            "stars": 2231,
             "topics": [
               "opentofu",
               "proxmox",
@@ -1141,7 +1143,7 @@
             "open_issues": 20,
             "owner": "lae",
             "repo": "ansible-role-proxmox",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "ansible",
               "hacktoberfest",
@@ -1194,11 +1196,11 @@
             "id": 725111108,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T14:10:40Z",
-            "open_issues": 116,
+            "last_commit": "2026-09-17T00:33:06Z",
+            "open_issues": 119,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "cluster-api",
               "kubernetes",
@@ -1219,7 +1221,7 @@
             "id": 429829622,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T08:57:33Z",
+            "last_commit": "2026-09-16T22:58:49Z",
             "open_issues": 24,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
@@ -1318,8 +1320,8 @@
             "id": 729261077,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T11:20:22Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-17T05:17:35Z",
+            "open_issues": 10,
             "owner": "bl4ko",
             "repo": "netbox-ssot",
             "stars": 74,
@@ -1362,7 +1364,7 @@
             "id": 1355667221,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T18:15:03Z",
+            "last_commit": "2026-09-17T10:36:49Z",
             "open_issues": 0,
             "owner": "anand34577",
             "repo": "ferrum",
@@ -1460,11 +1462,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:16:56Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-17T13:19:40Z",
+            "open_issues": 60,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6717,
+            "stars": 6718,
             "topics": [
               "ai",
               "alerts",
@@ -1533,7 +1535,7 @@
             "open_issues": 7,
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 254,
+            "stars": 266,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1551,7 +1553,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-09-10T14:49:31Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "nbuchwitz",
             "repo": "check_pve",
             "stars": 134,
@@ -1675,11 +1677,11 @@
             "id": 514096198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-16T14:15:53Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-17T14:41:57Z",
+            "open_issues": 12,
             "owner": "dougiteixeira",
             "repo": "proxmoxve",
-            "stars": 965,
+            "stars": 966,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1820,10 +1822,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T14:45:24Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "truenas",
             "repo": "truenas-proxmox-plugin",
-            "stars": 256,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-09-16T15:24:27.151Z"
@@ -1844,7 +1846,7 @@
             "open_issues": 1,
             "owner": "ccebelenski",
             "repo": "anas",
-            "stars": 150,
+            "stars": 155,
             "topics": [
               "btrfs",
               "homelab",
@@ -1902,7 +1904,7 @@
             "id": 1359993653,
             "language": "Perl",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T12:37:03Z",
+            "last_commit": "2026-09-17T13:11:19Z",
             "open_issues": 0,
             "owner": "delltech1",
             "repo": "proxmox-sharedlvmthin",
@@ -1989,7 +1991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:24:27.151Z",
+    "last_updated": "2026-09-17T15:31:21.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
@@ -1997,8 +1999,8 @@
       "id": 811014471,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-15T19:31:32Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-17T08:44:30Z",
+      "open_issues": 0,
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
       "stars": 83,
@@ -2017,7 +2019,7 @@
         "virtualization"
       ]
     },
-    "original_repository_sha": "702288c423f3e316070d503faa164c9397f4e2c7",
+    "original_repository_sha": "45455c4d182eda48c804f219ef86da1f0205ad4c",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
