@@ -71,8 +71,8 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:47:45Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T04:42:05Z",
+            "open_issues": 1,
             "owner": "john-broadway",
             "repo": "proximo",
             "stars": 50,
@@ -217,7 +217,7 @@
                 "id": 103278308,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:35:22Z",
+                "last_commit": "2026-10-02T17:13:27Z",
                 "open_issues": 0,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
@@ -265,7 +265,7 @@
                 "id": 103121042,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-30T09:02:36Z",
+                "last_commit": "2026-10-02T17:13:15Z",
                 "open_issues": 1,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-php",
@@ -583,11 +583,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:07:09Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-03T02:05:41Z",
+            "open_issues": 16,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29711,
+            "stars": 29716,
             "topics": [
               "alpine",
               "authentification",
@@ -625,11 +625,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T11:26:19Z",
+            "last_commit": "2026-10-02T20:12:04Z",
             "open_issues": 19,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 3075,
+            "stars": 3076,
             "topics": [
               "backup",
               "bash",
@@ -661,7 +661,7 @@
             "open_issues": 22,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1946,
+            "stars": 1945,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -926,7 +926,7 @@
             "open_issues": 12,
             "owner": "credativ",
             "repo": "ProxLB",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "proxlb",
               "proxmox",
@@ -981,11 +981,11 @@
                 "id": 1131928615,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-23T01:45:01Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-02T20:58:30Z",
+                "open_issues": 0,
                 "owner": "ryzenixx",
                 "repo": "proxmoxbar-macos",
-                "stars": 184,
+                "stars": 185,
                 "topics": [
                   "homelab",
                   "macos",
@@ -1065,7 +1065,7 @@
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 406,
+            "stars": 408,
             "topics": [
               "homelab",
               "microvm",
@@ -1183,11 +1183,11 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T10:11:05Z",
+            "last_commit": "2026-10-03T04:47:33Z",
             "open_issues": 99,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2243,
+            "stars": 2244,
             "topics": [
               "opentofu",
               "proxmox",
@@ -1291,8 +1291,8 @@
             "id": 429829622,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:25:15Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T04:26:24Z",
+            "open_issues": 24,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
             "stars": 226,
@@ -1380,50 +1380,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Netbox-SSOT",
-          "description": "Microservice that syncs objects from multiple sources (including Proxmox) into NetBox as automatic SSOT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Microservice that syncs objects from multiple sources into NetBox as automatic SSOT",
-            "homepage": null,
-            "id": 729261077,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-09-30T15:21:50Z",
-            "open_issues": 10,
-            "owner": "bl4ko",
-            "repo": "netbox-ssot",
-            "stars": 75,
-            "topics": [
-              "autosync",
-              "cisco-dna-center",
-              "dnac",
-              "fortigate",
-              "go",
-              "netbox",
-              "netbox-automation",
-              "olvm",
-              "ovirt",
-              "paloalto",
-              "paloaltonetworks",
-              "proxmox",
-              "ssot",
-              "sync",
-              "vcenter",
-              "vmware"
-            ]
-          },
-          "first_seen": "2026-08-28T21:21:12.691Z"
-        }
-      ],
-      "title": "Inventory"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "ferrum",
           "description": "Fleet control for Proxmox VE — a single dashboard for every cluster and standalone node you run, with live inventory, dashboards, backups, HA , firewall, alerting, and more. (docs).",
           "children": [],
@@ -1442,6 +1398,38 @@
             "topics": []
           },
           "first_seen": "2026-09-16T15:24:27.151Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Proxion",
+          "description": "Open-source web console for managing Proxmox VE nodes, VMs and containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A modern, open-source web console for Proxmox VE: live dashboard with console thumbnails, vSphere-style object pages, embedded VNC console and terminal, power actions, per-user preferences.",
+            "homepage": null,
+            "id": 1376547405,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-01T00:26:24Z",
+            "open_issues": 0,
+            "owner": "C2Tech-sys",
+            "repo": "proxion",
+            "stars": 0,
+            "topics": [
+              "dashboard",
+              "fastify",
+              "homelab",
+              "novnc",
+              "proxmox",
+              "proxmox-ve",
+              "react",
+              "self-hosted",
+              "typescript",
+              "virtualization"
+            ]
+          },
+          "first_seen": "2026-10-03T05:03:24.439Z"
         }
       ],
       "title": "Management"
@@ -1532,8 +1520,8 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:21:46Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-03T01:08:05Z",
+            "open_issues": 73,
             "owner": "rcourtman",
             "repo": "Pulse",
             "stars": 6774,
@@ -1711,7 +1699,7 @@
             "language": "Nix",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-12T12:51:21Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "SaumonNet",
             "repo": "proxmox-nixos",
             "stars": 1389,
@@ -1825,10 +1813,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-02T12:01:36Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "Javisen",
             "repo": "proxmox_sensors",
-            "stars": 70,
+            "stars": 71,
             "topics": [
               "home-assistant-hacs-integration-proxmox"
             ]
@@ -1947,11 +1935,11 @@
             "id": 1140747634,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T03:02:50Z",
+            "last_commit": "2026-10-02T21:40:29Z",
             "open_issues": 11,
             "owner": "truenas",
             "repo": "truenas-proxmox-plugin",
-            "stars": 394,
+            "stars": 396,
             "topics": []
           },
           "first_seen": "2026-09-16T15:24:27.151Z"
@@ -2117,7 +2105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:36:26.707Z",
+    "last_updated": "2026-10-03T05:03:24.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
@@ -2125,8 +2113,8 @@
       "id": 811014471,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-19T09:51:21Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-02T17:59:02Z",
+      "open_issues": 0,
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
       "stars": 89,
@@ -2146,7 +2134,7 @@
         "virtualization"
       ]
     },
-    "original_repository_sha": "dd27f397e8f5afb54f23c549912b68f5bb5b5c1a",
+    "original_repository_sha": "9c1a18938b47b09a8cbb82f511e5c1221b028f67",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
