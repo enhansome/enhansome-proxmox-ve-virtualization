@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-20T02:07:07Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 602,
+            "stars": 609,
             "topics": [
               "ai-agent",
               "automation",
@@ -71,11 +71,11 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T12:22:23Z",
+            "last_commit": "2026-10-21T02:35:40Z",
             "open_issues": 2,
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "a2a",
               "agents",
@@ -156,7 +156,7 @@
                 "id": 81260810,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-19T01:06:51Z",
+                "last_commit": "2026-10-21T13:10:15Z",
                 "open_issues": 56,
                 "owner": "Telmate",
                 "repo": "proxmox-api-go",
@@ -217,8 +217,8 @@
                 "id": 103278308,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:43:01Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-21T08:19:45Z",
+                "open_issues": 1,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
                 "stars": 79,
@@ -265,8 +265,8 @@
                 "id": 103121042,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:42:10Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-21T04:55:55Z",
+                "open_issues": 2,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-php",
                 "stars": 83,
@@ -386,7 +386,7 @@
             "open_issues": 15,
             "owner": "fabriziosalmi",
             "repo": "proxmox-lxc-autoscale",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "autoscaler",
               "autoscaling",
@@ -420,8 +420,8 @@
             "id": 76440908,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T08:42:39Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-20T23:56:45Z",
+            "open_issues": 4,
             "owner": "Corsinvest",
             "repo": "cv4pve-autosnap",
             "stars": 568,
@@ -466,7 +466,7 @@
             "open_issues": 2,
             "owner": "tis24dev",
             "repo": "proxsave",
-            "stars": 537,
+            "stars": 539,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -483,8 +483,8 @@
             "id": 1287505057,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T08:44:27Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-20T23:43:10Z",
+            "open_issues": 0,
             "owner": "Joulenap",
             "repo": "joulenap",
             "stars": 141,
@@ -604,11 +604,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-20T13:57:03Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-21T15:15:46Z",
+            "open_issues": 16,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29862,
+            "stars": 29877,
             "topics": [
               "alpine",
               "authentification",
@@ -646,11 +646,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T12:08:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-21T04:33:24Z",
+            "open_issues": 32,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 3198,
+            "stars": 3210,
             "topics": [
               "backup",
               "bash",
@@ -682,7 +682,7 @@
             "open_issues": 18,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1977,
+            "stars": 1978,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -734,7 +734,7 @@
             "open_issues": 8,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 751,
+            "stars": 753,
             "topics": [
               "go",
               "proxmox",
@@ -746,6 +746,37 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ProxMorph",
+          "description": "CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CSS themes for Proxmox VE, PBS, and PDM - integrates with the native Color Theme selector. Catppuccin, Dracula, Nord, Gruvbox, Solarized, Tokyo Night, UniFi, and more.",
+            "homepage": null,
+            "id": 1132382452,
+            "language": "CSS",
+            "license": null,
+            "last_commit": "2026-10-16T11:20:01Z",
+            "open_issues": 2,
+            "owner": "IT-BAER",
+            "repo": "proxmorph",
+            "stars": 624,
+            "topics": [
+              "catppuccin",
+              "css",
+              "dracula",
+              "gruvbox",
+              "nord",
+              "proxmox",
+              "proxmox-ve",
+              "solarized",
+              "themes"
+            ]
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
         },
         {
           "node_type": "item",
@@ -799,6 +830,37 @@
         },
         {
           "node_type": "item",
+          "title": "Proxhawk-tui",
+          "description": "A text console for Proxmox VE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A text console for Proxmox VE",
+            "homepage": null,
+            "id": 1407515620,
+            "language": "Shell",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-13T01:23:53Z",
+            "open_issues": 0,
+            "owner": "Mrdindon",
+            "repo": "proxhawk-tui",
+            "stars": 138,
+            "topics": [
+              "bash",
+              "i18n",
+              "multilingual",
+              "proxmox",
+              "proxmox-ve",
+              "sysadmin",
+              "terminal",
+              "tui",
+              "virtualization"
+            ]
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
+        },
+        {
+          "node_type": "item",
           "title": "Proxmox Manager",
           "description": "Single-file Bash tool for managing Proxmox VMs and containers.",
           "children": [],
@@ -809,7 +871,7 @@
             "id": 1047673244,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-19T05:16:03Z",
+            "last_commit": "2026-10-21T15:29:31Z",
             "open_issues": 1,
             "owner": "TimInTech",
             "repo": "proxmox-manager",
@@ -847,8 +909,8 @@
             "id": 195868531,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-07T08:42:55Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-21T00:19:26Z",
+            "open_issues": 1,
             "owner": "Corsinvest",
             "repo": "cv4pve-cli",
             "stars": 87,
@@ -932,6 +994,38 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
+        },
+        {
+          "node_type": "item",
+          "title": "proxxx",
+          "description": "Terminal cockpit for Proxmox VE & Proxmox Backup Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Terminal cockpit for Proxmox VE & PBS: Rust TUI + CLI, single static binary, eight-stage commit gate, no agent on the cluster.",
+            "homepage": "https://fabriziosalmi.github.io/proxxx/",
+            "id": 1226652468,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-21T15:52:08Z",
+            "open_issues": 38,
+            "owner": "fabriziosalmi",
+            "repo": "proxxx",
+            "stars": 40,
+            "topics": [
+              "cli",
+              "devops",
+              "homelab",
+              "mcp",
+              "proxmox",
+              "proxmox-backup-server",
+              "proxmox-ve",
+              "ratatui",
+              "rust",
+              "terminal-ui"
+            ]
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
         },
         {
           "node_type": "item",
@@ -1151,11 +1245,11 @@
             "id": 1214386818,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T08:12:34Z",
+            "last_commit": "2026-10-20T20:54:05Z",
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 433,
+            "stars": 436,
             "topics": [
               "homelab",
               "microvm",
@@ -1330,7 +1424,7 @@
             "open_issues": 3,
             "owner": "stevius10",
             "repo": "Proxmox-GitOps",
-            "stars": 595,
+            "stars": 596,
             "topics": [
               "automation",
               "container",
@@ -1357,7 +1451,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T00:33:52Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 493,
@@ -1381,8 +1475,8 @@
             "id": 624443384,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:04:21Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-21T13:11:21Z",
+            "open_issues": 2,
             "owner": "sergelogvinov",
             "repo": "proxmox-cloud-controller-manager",
             "stars": 345,
@@ -1435,7 +1529,7 @@
             "id": 429829622,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T11:20:45Z",
+            "last_commit": "2026-10-21T06:24:16Z",
             "open_issues": 24,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
@@ -1565,7 +1659,7 @@
             "open_issues": 0,
             "owner": "anand34577",
             "repo": "ferrum",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "dashboard",
               "golang",
@@ -1612,6 +1706,44 @@
             ]
           },
           "first_seen": "2026-10-03T05:03:24.439Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hosbah",
+          "description": "Open-source (AGPL-3.0) server management and app hosting that can create VMs and LXC containers on Proxmox VE, install an agent on them and deploy apps with zero downtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source server management and app hosting: bring your servers or Proxmox, zero-downtime deploys, databases, backups and tunnels, with an MCP server for AI agents.",
+            "homepage": "https://hosbah.com",
+            "id": 1369703993,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-19T12:50:43Z",
+            "open_issues": 13,
+            "owner": "fadymondy",
+            "repo": "hosbah",
+            "stars": 0,
+            "topics": [
+              "agpl",
+              "deployment",
+              "devops",
+              "docker",
+              "go",
+              "golang",
+              "hosbah",
+              "hosting",
+              "mcp",
+              "nextjs",
+              "paas",
+              "proxmox",
+              "self-hosted",
+              "server-management",
+              "togo",
+              "togo-framework"
+            ]
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
         }
       ],
       "title": "Management"
@@ -1682,11 +1814,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-20T13:32:34Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-21T15:32:28Z",
+            "open_issues": 76,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6896,
+            "stars": 6907,
             "topics": [
               "ai",
               "alerts",
@@ -1728,7 +1860,7 @@
             "open_issues": 42,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1475,
+            "stars": 1476,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -1755,7 +1887,7 @@
             "open_issues": 5,
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 329,
+            "stars": 330,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1800,8 +1932,8 @@
             "id": 681229414,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T04:05:25Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-21T08:51:10Z",
+            "open_issues": 9,
             "owner": "natrontech",
             "repo": "pbs-exporter",
             "stars": 67,
@@ -1835,7 +1967,7 @@
             "open_issues": 44,
             "owner": "jiangcuo",
             "repo": "pxvirt",
-            "stars": 1800,
+            "stars": 1801,
             "topics": [
               "arm",
               "loongarch64",
@@ -1864,7 +1996,7 @@
             "open_issues": 33,
             "owner": "SaumonNet",
             "repo": "proxmox-nixos",
-            "stars": 1403,
+            "stars": 1405,
             "topics": []
           },
           "first_seen": "2026-09-19T14:21:02.986Z"
@@ -1887,8 +2019,8 @@
             "id": 1193664022,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T08:43:21Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-21T01:39:19Z",
+            "open_issues": 2,
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
             "stars": 64,
@@ -2098,10 +2230,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-16T16:08:37Z",
-            "open_issues": 9,
+            "open_issues": 7,
             "owner": "truenas",
             "repo": "truenas-proxmox-plugin",
-            "stars": 420,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-09-16T15:24:27.151Z"
@@ -2159,8 +2291,8 @@
             "id": 891429989,
             "language": "Perl",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:17:59Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-21T08:27:24Z",
+            "open_issues": 11,
             "owner": "kolesa-team",
             "repo": "pve-purestorage-plugin",
             "stars": 43,
@@ -2285,10 +2417,77 @@
         }
       ],
       "title": "Storage"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "intel-igpu-passthru",
+          "description": "Intel GVT-d – iGPU passthrough done right (Proxmox / QEMU / KVM)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Intel GVT-d – iGPU passthrough done right (Proxmox / QEMU / KVM)",
+            "homepage": null,
+            "id": 1064724358,
+            "language": "Shell",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-06-04T03:25:18Z",
+            "open_issues": 1,
+            "owner": "LongQT-sea",
+            "repo": "intel-igpu-passthru",
+            "stars": 554,
+            "topics": [
+              "gvt-d",
+              "gvt-g",
+              "i915-sriov",
+              "igd",
+              "igpu-passthrough",
+              "legacy-igd",
+              "pci-passthrough",
+              "proxmox",
+              "qemu-kvm",
+              "vfio",
+              "vfio-pci",
+              "virtual-machine"
+            ]
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
+        }
+      ],
+      "title": "Tutorials, Blogs & Video"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PVE-VDIClient",
+          "description": "Proxmox based VDI client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Proxmox based VDI client",
+            "homepage": null,
+            "id": 467214598,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-04-10T01:07:56Z",
+            "open_issues": 44,
+            "owner": "joshpatten",
+            "repo": "PVE-VDIClient",
+            "stars": 1096,
+            "topics": []
+          },
+          "first_seen": "2026-10-21T15:55:26.196Z"
+        }
+      ],
+      "title": "VDI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:37:50.976Z",
+    "last_updated": "2026-10-21T15:55:26.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
@@ -2296,11 +2495,11 @@
       "id": 811014471,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-11T14:59:06Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-20T19:37:35Z",
+      "open_issues": 0,
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
-      "stars": 91,
+      "stars": 92,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2317,7 +2516,7 @@
         "virtualization"
       ]
     },
-    "original_repository_sha": "4ebbaec4834d4ffbabbb51e5085af5c367804727",
+    "original_repository_sha": "14b8c9af0e13383bb127df5893a361972ea10454",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
