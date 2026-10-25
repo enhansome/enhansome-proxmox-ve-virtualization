@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 615,
+            "stars": 617,
             "topics": [
               "ai-agent",
               "automation",
@@ -71,11 +71,11 @@
             "id": 1265706142,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T03:24:36Z",
+            "last_commit": "2026-10-25T02:56:39Z",
             "open_issues": 3,
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 58,
+            "stars": 60,
             "topics": [
               "a2a",
               "agents",
@@ -221,7 +221,7 @@
                 "open_issues": 1,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
-                "stars": 79,
+                "stars": 80,
                 "topics": [
                   "api",
                   "api-client",
@@ -356,7 +356,7 @@
             "open_issues": 0,
             "owner": "fabriziosalmi",
             "repo": "proxmox-vm-autoscale",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "autoscale",
               "autoscaling",
@@ -521,7 +521,7 @@
             "open_issues": 27,
             "owner": "treycentric",
             "repo": "pve-flr-portal",
-            "stars": 82,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-10-03T15:07:43.268Z"
@@ -607,11 +607,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-24T13:22:34Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-25T14:36:10Z",
+            "open_issues": 24,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29902,
+            "stars": 29912,
             "topics": [
               "alpine",
               "authentification",
@@ -649,11 +649,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-24T04:30:52Z",
+            "last_commit": "2026-10-25T12:17:59Z",
             "open_issues": 28,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 3228,
+            "stars": 3230,
             "topics": [
               "backup",
               "bash",
@@ -685,7 +685,7 @@
             "open_issues": 18,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1981,
+            "stars": 1982,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -733,11 +733,11 @@
             "id": 977212376,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-19T09:05:49Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-25T06:51:10Z",
+            "open_issues": 5,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 756,
+            "stars": 758,
             "topics": [
               "go",
               "proxmox",
@@ -794,7 +794,7 @@
             "language": "TypeScript",
             "license": null,
             "last_commit": "2026-10-05T08:56:46Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "community-scripts",
             "repo": "ProxmoxVE-Local",
             "stars": 382,
@@ -847,7 +847,7 @@
             "open_issues": 0,
             "owner": "Mrdindon",
             "repo": "proxhawk-tui",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "bash",
               "i18n",
@@ -1109,7 +1109,7 @@
             "open_issues": 15,
             "owner": "credativ",
             "repo": "ProxLB",
-            "stars": 169,
+            "stars": 168,
             "topics": [
               "proxlb",
               "proxmox",
@@ -1252,7 +1252,7 @@
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 439,
+            "stars": 440,
             "topics": [
               "homelab",
               "microvm",
@@ -1274,8 +1274,8 @@
             "id": 1153257898,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-20T20:44:16Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-25T14:04:42Z",
+            "open_issues": 1,
             "owner": "lucid-fabrics",
             "repo": "osx-proxmox-next",
             "stars": 285,
@@ -1370,11 +1370,11 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T05:42:16Z",
-            "open_issues": 102,
+            "last_commit": "2026-10-24T22:47:28Z",
+            "open_issues": 101,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2279,
+            "stars": 2283,
             "topics": [
               "opentofu",
               "proxmox",
@@ -1457,7 +1457,7 @@
             "open_issues": 132,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
-            "stars": 493,
+            "stars": 494,
             "topics": [
               "cluster-api",
               "kubernetes",
@@ -1587,7 +1587,7 @@
             "open_issues": 85,
             "owner": "ansible-collections",
             "repo": "community.proxmox",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1722,7 +1722,7 @@
             "id": 1369703993,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T19:03:29Z",
+            "last_commit": "2026-10-25T09:15:28Z",
             "open_issues": 13,
             "owner": "fadymondy",
             "repo": "hosbah",
@@ -1817,11 +1817,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T14:10:38Z",
-            "open_issues": 80,
+            "last_commit": "2026-10-25T14:43:04Z",
+            "open_issues": 78,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6927,
+            "stars": 6936,
             "topics": [
               "ai",
               "alerts",
@@ -1860,10 +1860,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T20:37:34Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1479,
+            "stars": 1480,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -1890,7 +1890,7 @@
             "open_issues": 5,
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 332,
+            "stars": 334,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1999,7 +1999,7 @@
             "open_issues": 33,
             "owner": "SaumonNet",
             "repo": "proxmox-nixos",
-            "stars": 1408,
+            "stars": 1407,
             "topics": []
           },
           "first_seen": "2026-09-19T14:21:02.986Z"
@@ -2236,7 +2236,7 @@
             "open_issues": 9,
             "owner": "truenas",
             "repo": "truenas-proxmox-plugin",
-            "stars": 431,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-09-16T15:24:27.151Z"
@@ -2254,7 +2254,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-18T20:28:51Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "ccebelenski",
             "repo": "anas",
             "stars": 197,
@@ -2440,7 +2440,7 @@
             "open_issues": 1,
             "owner": "LongQT-sea",
             "repo": "intel-igpu-passthru",
-            "stars": 556,
+            "stars": 559,
             "topics": [
               "gvt-d",
               "gvt-g",
@@ -2480,7 +2480,7 @@
             "open_issues": 44,
             "owner": "joshpatten",
             "repo": "PVE-VDIClient",
-            "stars": 1097,
+            "stars": 1098,
             "topics": []
           },
           "first_seen": "2026-10-21T15:55:26.196Z"
@@ -2490,7 +2490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:27:39.851Z",
+    "last_updated": "2026-10-25T14:55:51.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
