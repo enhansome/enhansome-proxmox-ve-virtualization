@@ -15,11 +15,11 @@
             "id": 988856738,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-22T11:25:23Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-25T23:29:35Z",
+            "open_issues": 4,
             "owner": "RekklesNA",
             "repo": "ProxmoxMCP-Plus",
-            "stars": 617,
+            "stars": 620,
             "topics": [
               "ai-agent",
               "automation",
@@ -72,10 +72,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T02:56:39Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "john-broadway",
             "repo": "proximo",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "a2a",
               "agents",
@@ -221,7 +221,7 @@
                 "open_issues": 1,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-java",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "api",
                   "api-client",
@@ -269,7 +269,7 @@
                 "open_issues": 2,
                 "owner": "Corsinvest",
                 "repo": "cv4pve-api-php",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "api",
                   "api-client",
@@ -424,7 +424,7 @@
             "open_issues": 4,
             "owner": "Corsinvest",
             "repo": "cv4pve-autosnap",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "automation",
               "autosnap",
@@ -462,7 +462,7 @@
             "id": 1015894877,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-24T08:49:07Z",
+            "last_commit": "2026-10-26T09:44:20Z",
             "open_issues": 1,
             "owner": "tis24dev",
             "repo": "proxsave",
@@ -521,7 +521,7 @@
             "open_issues": 27,
             "owner": "treycentric",
             "repo": "pve-flr-portal",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-10-03T15:07:43.268Z"
@@ -588,6 +588,43 @@
             ]
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PBP - Proxmox Backup Proofing",
+          "description": "Automated restore testing for Proxmox VE and Proxmox Backup Server: restores, boots and checks each guest's newest backup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automated restore testing for Proxmox VE and Proxmox Backup Server: restores, boots and checks each guest's newest backup.",
+            "homepage": "https://breadthsecurity.com",
+            "id": 1432288432,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-24T22:32:19Z",
+            "open_issues": 0,
+            "owner": "Breadth-Security",
+            "repo": "Proxmox-Backup-Proofing",
+            "stars": 6,
+            "topics": [
+              "backup",
+              "backup-verification",
+              "disaster-recovery",
+              "golang",
+              "homelab",
+              "proxmox",
+              "proxmox-backup",
+              "proxmox-backup-server",
+              "proxmox-cluster",
+              "proxmox-infrastructure",
+              "proxmox-tools",
+              "proxmox-ve",
+              "proxmoxve",
+              "restore-testing",
+              "self-hosted"
+            ]
+          },
+          "first_seen": "2026-10-26T17:18:15.985Z"
         }
       ],
       "title": "Backup Tools"
@@ -607,11 +644,11 @@
             "id": 881925790,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:36:10Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-26T16:50:17Z",
+            "open_issues": 12,
             "owner": "community-scripts",
             "repo": "ProxmoxVE",
-            "stars": 29912,
+            "stars": 29927,
             "topics": [
               "alpine",
               "authentification",
@@ -649,11 +686,11 @@
             "id": 906342938,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-25T12:17:59Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-26T17:17:49Z",
+            "open_issues": 29,
             "owner": "MacRimi",
             "repo": "ProxMenux",
-            "stars": 3230,
+            "stars": 3236,
             "topics": [
               "backup",
               "bash",
@@ -682,10 +719,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-13T18:09:06Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "Meliox",
             "repo": "PVE-mods",
-            "stars": 1982,
+            "stars": 1983,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -733,11 +770,11 @@
             "id": 977212376,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T06:51:10Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T09:10:08Z",
+            "open_issues": 6,
             "owner": "devnullvoid",
             "repo": "pvetui",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "go",
               "proxmox",
@@ -766,7 +803,7 @@
             "open_issues": 2,
             "owner": "IT-BAER",
             "repo": "proxmorph",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "catppuccin",
               "css",
@@ -847,7 +884,7 @@
             "open_issues": 0,
             "owner": "Mrdindon",
             "repo": "proxhawk-tui",
-            "stars": 140,
+            "stars": 142,
             "topics": [
               "bash",
               "i18n",
@@ -916,7 +953,7 @@
             "open_issues": 1,
             "owner": "Corsinvest",
             "repo": "cv4pve-cli",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "api-client",
               "cli",
@@ -951,8 +988,8 @@
             "id": 847110660,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-18T20:43:34Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-25T20:43:30Z",
+            "open_issues": 5,
             "owner": "fabriziosalmi",
             "repo": "lws",
             "stars": 75,
@@ -1010,8 +1047,8 @@
             "id": 1226652468,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-24T13:22:49Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-26T05:24:20Z",
+            "open_issues": 13,
             "owner": "fabriziosalmi",
             "repo": "proxxx",
             "stars": 40,
@@ -1238,6 +1275,37 @@
       "items": [
         {
           "node_type": "item",
+          "title": "OpenCore-ISO - OpenCore for Proxmox VE / QEMU",
+          "description": "OpenCore ISO image for running macOS virtual machines on Proxmox VE and QEMU/KVM. No legacy configurations, no OVMF patches, no kernel patches, true vanilla macOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A properly configured OpenCore-ISO image for Proxmox VE and QEMU/KVM - Support Mac OS X 10.4 to macOS 26",
+            "homepage": null,
+            "id": 1070309132,
+            "language": "C",
+            "license": "MIT",
+            "last_commit": "2026-08-18T10:29:55Z",
+            "open_issues": 2,
+            "owner": "LongQT-sea",
+            "repo": "OpenCore-ISO",
+            "stars": 871,
+            "topics": [
+              "macos",
+              "macos-kvm-guest",
+              "opencore",
+              "opencore-bootloader",
+              "opencore-efi",
+              "opencore-iso",
+              "osx",
+              "osx-kvm",
+              "proxmox-ve"
+            ]
+          },
+          "first_seen": "2026-10-26T17:18:15.985Z"
+        },
+        {
+          "node_type": "item",
           "title": "pve-microvm",
           "description": "Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200ms boot.",
           "children": [],
@@ -1252,7 +1320,7 @@
             "open_issues": 1,
             "owner": "rcarmo",
             "repo": "pve-microvm",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "homelab",
               "microvm",
@@ -1370,11 +1438,11 @@
             "id": 404135384,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T22:47:28Z",
-            "open_issues": 101,
+            "last_commit": "2026-10-26T01:46:32Z",
+            "open_issues": 97,
             "owner": "bpg",
             "repo": "terraform-provider-proxmox",
-            "stars": 2283,
+            "stars": 2287,
             "topics": [
               "opentofu",
               "proxmox",
@@ -1453,8 +1521,8 @@
             "id": 725111108,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:33:08Z",
-            "open_issues": 132,
+            "last_commit": "2026-10-26T15:24:33Z",
+            "open_issues": 126,
             "owner": "ionos-cloud",
             "repo": "cluster-api-provider-proxmox",
             "stars": 494,
@@ -1532,8 +1600,8 @@
             "id": 429829622,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T04:44:57Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-26T06:10:37Z",
+            "open_issues": 25,
             "owner": "muhlba91",
             "repo": "pulumi-proxmoxve",
             "stars": 226,
@@ -1584,7 +1652,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T21:26:23Z",
-            "open_issues": 85,
+            "open_issues": 89,
             "owner": "ansible-collections",
             "repo": "community.proxmox",
             "stars": 145,
@@ -1817,11 +1885,11 @@
             "id": 932825524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-25T14:43:04Z",
-            "open_issues": 78,
+            "last_commit": "2026-10-26T17:15:18Z",
+            "open_issues": 83,
             "owner": "rcourtman",
             "repo": "Pulse",
-            "stars": 6936,
+            "stars": 6944,
             "topics": [
               "ai",
               "alerts",
@@ -1859,11 +1927,11 @@
             "id": 101076642,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T20:37:34Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-26T06:50:30Z",
+            "open_issues": 35,
             "owner": "prometheus-pve",
             "repo": "prometheus-pve-exporter",
-            "stars": 1480,
+            "stars": 1483,
             "topics": [
               "prometheus",
               "prometheus-exporter",
@@ -1887,10 +1955,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-22T12:38:19Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "ffind-dev",
             "repo": "pve-ups",
-            "stars": 334,
+            "stars": 335,
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
@@ -1935,8 +2003,8 @@
             "id": 681229414,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T16:38:00Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-26T05:11:41Z",
+            "open_issues": 9,
             "owner": "natrontech",
             "repo": "pbs-exporter",
             "stars": 67,
@@ -1995,11 +2063,11 @@
             "id": 759401680,
             "language": "Nix",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T02:39:19Z",
+            "last_commit": "2026-10-26T03:25:42Z",
             "open_issues": 33,
             "owner": "SaumonNet",
             "repo": "proxmox-nixos",
-            "stars": 1407,
+            "stars": 1408,
             "topics": []
           },
           "first_seen": "2026-09-19T14:21:02.986Z"
@@ -2026,7 +2094,7 @@
             "open_issues": 2,
             "owner": "Corsinvest",
             "repo": "cv4pve-report",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "audit",
               "cluster",
@@ -2088,7 +2156,7 @@
             "id": 514096198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-21T23:44:08Z",
+            "last_commit": "2026-10-26T01:38:56Z",
             "open_issues": 7,
             "owner": "dougiteixeira",
             "repo": "proxmoxve",
@@ -2113,7 +2181,7 @@
             "open_issues": 7,
             "owner": "Javisen",
             "repo": "proxmox_sensors",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "home-assistant-hacs-integration-proxmox"
             ]
@@ -2257,7 +2325,7 @@
             "open_issues": 7,
             "owner": "ccebelenski",
             "repo": "anas",
-            "stars": 197,
+            "stars": 209,
             "topics": [
               "btrfs",
               "homelab",
@@ -2302,6 +2370,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:21:12.691Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cetrafs",
+          "description": "A clustered, shared-disk filesystem for Linux - a modern, open alternative to VMFS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "kernel and userspace code for cetrafs, a clustered, shared-disk filesystem for Linux",
+            "homepage": null,
+            "id": 1429712260,
+            "language": "C",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-26T16:44:44Z",
+            "open_issues": 0,
+            "owner": "cetrafs",
+            "repo": "cetrafs",
+            "stars": 21,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T17:18:15.985Z"
         },
         {
           "node_type": "item",
@@ -2385,6 +2474,27 @@
             "topics": []
           },
           "first_seen": "2026-10-11T16:37:37.475Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pve-storage-cetrafs",
+          "description": "Proxmox VE storage plugin for cetrafs, the clustered shared-disk filesystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Proxmox VE storage plugin for cetrafs",
+            "homepage": null,
+            "id": 1430081657,
+            "language": "Perl",
+            "license": null,
+            "last_commit": "2026-10-25T15:43:49Z",
+            "open_issues": 0,
+            "owner": "cetrafs",
+            "repo": "cetrafs-proxmox",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-10-26T17:18:15.985Z"
         },
         {
           "node_type": "item",
@@ -2490,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:55:51.414Z",
+    "last_updated": "2026-10-26T17:18:15.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Proxmox VE related software, tools and documentation.",
@@ -2498,7 +2608,7 @@
       "id": 811014471,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-20T19:37:35Z",
+      "last_commit": "2026-10-25T15:59:04Z",
       "open_issues": 0,
       "owner": "alexgoesgit",
       "repo": "awesome-proxmox-ve-virtualization",
@@ -2519,7 +2629,7 @@
         "virtualization"
       ]
     },
-    "original_repository_sha": "14b8c9af0e13383bb127df5893a361972ea10454",
+    "original_repository_sha": "ab83d56de713ac54af82980b2ee24ebec0bd0863",
     "enhanced_repository": "enhansome/enhansome-proxmox-ve-virtualization",
     "enhanced_repository_description": null,
     "title": "Awesome Proxmox VE Virtualization with stars"
